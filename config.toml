@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://orbis-dei.netlify.app/'
 languageCode = 'en-us'
 title = 'Orbis Dei'
 theme = "PaperMod"
