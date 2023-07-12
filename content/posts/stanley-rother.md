@@ -5,7 +5,6 @@ date: 2023-07-12T09:10:11-05:00
 
 {{< rawhtml >}}
 
-<!-- <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script> -->
 <style>
     /* 
  * Always set the map height explicitly to define the size of the div element
@@ -16,7 +15,6 @@ date: 2023-07-12T09:10:11-05:00
 }
 </style>
 
-<h3>My Google Maps Demo</h3>
 <!--The div element for the map -->
 <div id="map"></div>
 
@@ -31,40 +29,24 @@ let geocoder;
 
 async function initMap() {
   // The location of Uluru
-  const position = { lat: -25.344, lng: 131.031 };
+  const position = {lat: 35.375800, lng: -97.49750};
   // Request needed libraries.
   //@ts-ignore
   const { Map } = await google.maps.importLibrary("maps");
   const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
-  const {Geocoder} = await google.maps.importLibrary("geocoding");
 
-
-
-  let geocoder = new Geocoder();
-
-  geocoder.geocode(
-      {"address": "700+Southeast+89th+Street,+Oklahoma+City,+OK"},
-      function(results, status) {
-          console.log(results); console.log(status);
-            // The map, centered at Uluru
   map = new Map(document.getElementById("map"), {
-    zoom: 4,
-    center: results[0].geometry.location,
+    zoom: 8,
+    center: position,
     mapId: "DEMO_MAP_ID",
   });
-//     // The marker, positioned at Uluru
-//   const marker = new AdvancedMarkerElement({
-//     map: map,
-//     position: results[0].geometry.location,
-//     title: "Uluru",
-//   });
+    // The marker, positioned at Uluru
     // The marker, positioned at Uluru
   const marker2 = new AdvancedMarkerElement({
     map: map,
-    position: {lat: 35.376906, lng: -97.502884},
+    position: position,
     title: "Uluru",
   });
-    })
 
 
 }
