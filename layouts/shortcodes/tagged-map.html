@@ -1,9 +1,4 @@
----
-title: "Stanley Rother"
-date: 2023-07-12T09:10:11-05:00
----
-
-{{< rawhtml >}}
+<!-- Tagged map -->
 
 <style>
     /* 
@@ -29,47 +24,32 @@ let geocoder;
 
 async function initMap() {
   // The location of Uluru
-  const position = {lat: 35.375800, lng: -97.49750};
   // Request needed libraries.
   //@ts-ignore
+    const locations = [
+{{ range where .Site.Pages "Params.tags" "intersect" (slice (.Get 0)) }}
+    {{ .Param "location" }},
+{{ end }}
+    ];
+
   const { Map } = await google.maps.importLibrary("maps");
   const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
 
   map = new Map(document.getElementById("map"), {
     zoom: 8,
-    center: position,
+    center: locations[0],
     mapId: "DEMO_MAP_ID",
   });
     // The marker, positioned at Uluru
-    // The marker, positioned at Uluru
-  const marker2 = new AdvancedMarkerElement({
-    map: map,
-    position: position,
-    title: "Uluru",
-  });
+    let markers = locations.map(function(location) {
+        new AdvancedMarkerElement({
+      map: map,
+      position: location,
+      title: "Uluru",
+    })});
 
 
 }
 
 initMap();
 </script>
-
-{{< /rawhtml >}}
-
-
-
-# Holy Trinity Catholic Church
-
-Holy Trinity Catholic Church, Missouri Avenue, Okarche, OK, USA
-
-Bl. Stanley Rother was a parishioner at Holy Trinity Catholic Church, where he received his sacraments and studied at Holy Trinity Catholic School.
-[More details](https://www.holytrinityok.org/)
-
-
-# Blessed Stanley Rother Shrine
-
-Blessed Stanley Rother Shrine, Southeast 89th Street, Oklahoma City, OK, USA
-
-The shrine was dedicated on February 17, 2023 with the Most Rev. Paul S. Coakley, Archbishop of Oklahoma City presiding.  The service was attended by 37 bishops, 147 priests, and hundreds of other religious and pilgrims.
-[More details](https://www.rothershrine.org/)
-
