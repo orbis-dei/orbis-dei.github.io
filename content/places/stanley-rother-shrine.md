@@ -4,6 +4,7 @@ date: 2023-07-12T14:39:32-05:00
 location: {lat: 35.375800, lng: -97.49750}
 tags:
 - stanley-rother
+- oklahoma-city-ok
 ---
 
 Blessed Stanley Rother Shrine, Southeast 89th Street, Oklahoma City, OK, USA
