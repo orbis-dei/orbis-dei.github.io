@@ -7,6 +7,11 @@
  */
 #map {
   height: 400px;
+  color: black;
+}
+
+#map a {
+    color: #1e1e1e
 }
 </style>
 
@@ -46,14 +51,23 @@ async function initMap() {
   //@ts-ignore
     const locations = [
 {{ range where .Site.Pages "Params.tags" "intersect" (slice (.Get 0)) }}
-    {{ .Param "location" }},
+    {
+        location: {{ .Param "location" }},
+        content: "<h4><a href={{ .RelPermalink }}>{{ .Title }}</a></h4>{{ .Content }}", 
+    },
 {{ end }}
     ];
 
-  const { Map } = await google.maps.importLibrary("maps");
+  const { Map, InfoWindow } = await google.maps.importLibrary("maps");
   const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
 
-    dimensions = mapDimensions(locations);
+  const infoWindow = new google.maps.InfoWindow({
+    content: "",
+    // disableAutoPan: true,
+  });
+
+
+    dimensions = mapDimensions(locations.map((x) => x.location));
 
   map = new Map(document.getElementById("map"), {
     zoom: dimensions.zoom_level,
@@ -62,11 +76,21 @@ async function initMap() {
   });
     // The marker, positioned at Uluru
     let markers = locations.map(function(location) {
-        return new AdvancedMarkerElement({
-      map: map,
-      position: location,
-      title: "Uluru",
-    })});
+        console.log(location.location);
+        let marker = new AdvancedMarkerElement({
+            map: map,
+            position: location.location,
+            title: location.content,
+        })
+        marker.addListener("click", ({ domEvent, latLng}) => {
+            const { target } = domEvent;
+
+            infoWindow.close();
+            infoWindow.setContent(marker.title);
+            infoWindow.open(marker.map, marker);
+        });
+        return marker;
+    });
 
 
 }

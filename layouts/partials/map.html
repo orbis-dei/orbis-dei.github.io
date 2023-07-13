@@ -7,6 +7,7 @@
  */
 #map {
   height: 400px;
+  color: black;
 }
 </style>
 
@@ -26,8 +27,13 @@ async function initMap() {
   const position = {{ .Param "location" }};
   // Request needed libraries.
   //@ts-ignore
-  const { Map } = await google.maps.importLibrary("maps");
+  const { Map, InfoWindow } = await google.maps.importLibrary("maps");
   const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
+
+  const infoWindow = new google.maps.InfoWindow({
+    content: "",
+    disableAutoPan: true,
+  });
 
   map = new Map(document.getElementById("map"), {
     zoom: 8,
@@ -36,10 +42,17 @@ async function initMap() {
   });
     // The marker, positioned at Uluru
     // The marker, positioned at Uluru
-  const marker2 = new AdvancedMarkerElement({
+  const marker = new AdvancedMarkerElement({
     map: map,
     position: position,
-    title: "Uluru",
+    title: "{{ .Title }}",
+  });
+  marker.addListener("click", ({ domEvent, latLng}) => {
+    const { target } = domEvent;
+
+    infoWindow.close();
+    infoWindow.setContent(marker.title);
+    infoWindow.open(marker.map, marker);
   });
 
 
