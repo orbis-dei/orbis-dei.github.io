@@ -18,6 +18,25 @@
     ({key: window.GOOGLE_API_KEY, v: "beta"});</script>
 
 <script>
+
+function centerOfLine(points) {
+    return (Math.min(...points) + Math.max(...points)) / 2;
+}
+
+function mapDimensions(locations) {
+    latitudes = locations.map((x) => x.lat);
+    longitudes = locations.map((x) => x.lng);
+    spread = Math.max(
+        Math.max(...latitudes) - Math.min(...latitudes),
+        Math.max(...longitudes) - Math.min(...longitudes),
+        )
+    return {
+        center: {lat: centerOfLine(latitudes), lng: centerOfLine(longitudes)}, 
+        zoom_level: Math.floor(Math.log2(640 / spread))
+    }
+}
+
+
     // Initialize and add the map
 let map;
 
@@ -34,14 +53,16 @@ async function initMap() {
   const { Map } = await google.maps.importLibrary("maps");
   const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
 
+    dimensions = mapDimensions(locations);
+
   map = new Map(document.getElementById("map"), {
-    zoom: 8,
-    center: locations[0],
+    zoom: dimensions.zoom_level,
+    center: dimensions.center,
     mapId: "DEMO_MAP_ID",
   });
     // The marker, positioned at Uluru
     let markers = locations.map(function(location) {
-        new AdvancedMarkerElement({
+        return new AdvancedMarkerElement({
       map: map,
       position: location,
       title: "Uluru",
