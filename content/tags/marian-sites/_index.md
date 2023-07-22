@@ -3,8 +3,6 @@ title: "Marian Sites"
 date: 2023-07-12T09:10:11-05:00
 ---
 
-{{< tagged-map "holy-mary" >}}
-
 Over the years, there have been hundreds of reported apparitions of Our Blessed Mother.  Reported apparitions are generally grouped into three categories:
 
 1. **Constat de Supernaturalitate** (Approved): Apparitions whose supernatural character is declared worthy of belief and contain nothing contrary to faith and morals.  However, belief in these is not necessary for salvation.

@@ -1,6 +1,6 @@
 ---
 title: "Museo de Bl. Miguel Augstin Pro"
-location: {lat: 19.4225014, lng: -99.1610034}
+location: {lat: 19.4224, lng: -99.16095}
 tags:
 - miguel-pro
 - holy-persons
