@@ -1,6 +1,5 @@
 ---
 title: "Marian Sites"
-date: 2023-07-12T09:10:11-05:00
 ---
 
 Over the years, there have been hundreds of reported apparitions of Our Blessed Mother.  Reported apparitions are generally grouped into three categories:

@@ -1,6 +1,5 @@
 ---
 title: "Blessed Stanley Rother Shrine"
-date: 2023-07-12T14:39:32-05:00
 location: {lat: 35.375800, lng: -97.49750}
 tags:
 - stanley-rother

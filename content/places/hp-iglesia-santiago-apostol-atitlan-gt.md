@@ -1,6 +1,5 @@
 ---
 title: "Iglesia Santiago Apostol, Santiago Atitlán, Guatemala"
-date: 2023-07-12T14:39:32-05:00
 location: {lat: 14.638171, lng: -91.229103}
 tags:
 - stanley-rother
