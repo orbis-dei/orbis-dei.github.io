@@ -10,4 +10,9 @@ A look into places where Saints, Blesseds, Venerables and Servants of God lived 
 
 ## Blesseds
 
-[Bl. Stanley Rother]({{< ref "/tags/stanley-rother" >}})
+* [Bl. Miguel Pro]({{< ref "/tags/miguel-pro" >}})
+* [Bl. Stanley Rother]({{< ref "/tags/stanley-rother" >}})
+
+## Venerables
+
+## Servants of God

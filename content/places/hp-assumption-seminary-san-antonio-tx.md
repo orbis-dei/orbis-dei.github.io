@@ -1,5 +1,5 @@
 ---
-title: "Assumption Seminary, San Antonio, TX"
+title: "Assumption Seminary"
 location: {lat: 29.454204, lng: -98.54519}
 tags:
 - stanley-rother

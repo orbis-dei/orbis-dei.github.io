@@ -1,12 +1,15 @@
 ---
-title: "Assumption Seminary, San Antonio, TX"
-location: {lat: 29.454204, lng: -98.54519}
+title: "Our Lady of Guadalupe"
+location: {lat: 19.484938083322614, lng: -99.11804935570431}
 tags:
-- stanley-rother
-- holy-persons
-- usa
+- marian-sites
+- juan-diego
+- churches
+- mexico
 ---
 
-Bl. Stanley Rother was accepted as a seminarian and began his studies at Assumption Seminary.
+In December 1531, the Virgin Mary appeared to St. Juan Diego and his uncle.  The miraculous image imprinted on Juan Diego's tilma is on display at the Basilica of Our Lady of Guadalupe, which is the most-visited Catholic shrine in the world.
 
-[Assumption Seminary official site](https://assumptionseminary.org/)
+[More information on Miracle Hunter](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/guadalupe/index.html)
+
+[Basilica of Our Lady of Guadalupe official site](https://virgendeguadalupe.org.mx/)
