@@ -2,10 +2,3 @@ baseURL = 'https://orbis-dei.netlify.app/'
 languageCode = 'en-us'
 title = 'Orbis Dei'
 theme = "PaperMod"
-
-menu:
-    main:
-      - name: Saints and Holy Persons
-        identifier: holy-persons
-        url: /holy-persons
-        weight: 0
