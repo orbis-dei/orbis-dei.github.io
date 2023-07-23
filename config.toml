@@ -1,16 +1,18 @@
-baseURL = 'https://orbis-dei.netlify.app/'
+baseURL = 'https://orbis-dei.github.io/'
 languageCode = 'en-us'
 title = 'Orbis Dei'
 theme = 'PaperMod'
 
 [menu]
 [[menu.main]]
-  name = 'Saints and Holy Persons'
-  identifier = 'holy-persons'
-  pageRef = 'tags/holy-persons'
-  weight = 10
-[[menu.main]]
   name = 'Marian Sites'
-  identifier = 'marian-sites'
-  pageRef = '/tags/marian-sites'
-  weight = 10
+  pageRef = 'tags/marian-sites'
+  weight = 1
+[[menu.main]]
+  name = 'Saints and Holy Persons'
+  pageRef = 'tags/holy-persons'
+  weight = 2
+[[menu.main]]
+  name = 'Contact'
+  pageRef = 'contact'
+  weight = 3

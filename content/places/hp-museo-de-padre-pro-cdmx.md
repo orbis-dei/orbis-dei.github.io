@@ -1,5 +1,5 @@
 ---
-title: "Museo de Bl. Miguel Augstin Pro"
+title: "Museo de Bl. Miguel Agustin Pro"
 location: {lat: 19.4224, lng: -99.16095}
 tags:
 - miguel-pro
