@@ -1,5 +1,5 @@
 ---
-title: "Saints and Holy Persons"
+title: "Saints & Holy Persons"
 ---
 
 A look into places where Saints, Blesseds, Venerables and Servants of God lived their lives.
