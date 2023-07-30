@@ -10,6 +10,10 @@ tags:
 
 In December 1531, the Virgin Mary appeared to St. Juan Diego and his uncle.  The miraculous image imprinted on Juan Diego's tilma is on display at the Basilica of Our Lady of Guadalupe, which is the most-visited Catholic shrine in the world.
 
-[More information on Miracle Hunter](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/guadalupe/index.html)
+#### More Information
+
+[Miracle Hunter](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/guadalupe/index.html)
+
+[MaryPages](https://www.marypages.com/guadalupe-(mexico).html)
 
 [Basilica of Our Lady of Guadalupe official site](https://virgendeguadalupe.org.mx/)
