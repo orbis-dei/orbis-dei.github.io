@@ -1,4 +1,4 @@
-baseURL = 'https://orbis-dei.github.io/'
+baseURL = 'https://orbisdei.org'
 languageCode = 'en-us'
 title = 'Orbis Dei'
 theme = 'PaperMod'
