@@ -7,7 +7,7 @@ tags:
 - france
 ---
 
-In 1846, the Blessed Virgin Mary is believed to have come to 11-year-old Maximin Giraud and 14-year-old Melanie Calvat-Mathieu while they tended sheep in a small French Alpine village.  Her appearance in sorrow and tears called for conversion and penance for sins.
+In 1846, the Blessed Virgin Mary appeared to 11-year-old Maximin Giraud and 14-year-old Melanie Calvat-Mathieu while they tended sheep in a small French Alpine village.  Her appearance in sorrow and tears called for conversion and repentance.
 
 #### More Information
 
