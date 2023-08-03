@@ -1,0 +1,23 @@
+---
+title: "Our Lady of Zeitoun, Our Lady of Light"
+location: {lat: 30.104622926940923, lng: 31.315544743810154} 
+tags:
+- marian-sites
+- churches
+- egypt
+- coptic
+---
+
+In 1968 Our Lady began appearing over St. Mary's Coptic Orthodox church in Zeitoun, Egypt.  The church lies on the Matariya Road through which the Holy Family is traditionally known to have passed during their stay in Egypt.
+
+For three years Our Lady appeared on many occasions, taking many forms and sometimes accompanied by doves and other phenomena. It is estimated that 40 million people across a variety of faiths witnessed these events.
+
+The apparitions have been verified by both the Coptic Orthodox Church and the Roman Catholic Church through the Papal Residence in Cairo.
+
+#### More Information
+
+[Miracle Hunter](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/zeitun/index.html)
+
+[MaryPages](https://www.marypages.com/zeitoen-ca%C3%AFro-(egypt)-en.html)
+
+[Virgin Mary Church in Zeitoun official site](https://www.stmaryztn.org/saintmary/en/)
