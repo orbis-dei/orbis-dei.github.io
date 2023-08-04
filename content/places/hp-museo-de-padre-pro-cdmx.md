@@ -11,6 +11,6 @@ This museum contains many of Bl. Miguel Pro's personal belongings, including cas
 
 The location of Fr. Pro's arrest appears to be unknown, but the location of his martyrdom is known.
 
-#### Author's Note ####
+#### Author's Note
 
 The hours are rather strange: certain days of the week in the middle of the day.  The entrance is to the left of the entrance to La Sagrada Familia.  The gift shop is also excellent. -JPY
