@@ -16,6 +16,8 @@ In 1866, Magdalene Kade, an orphaned 31 year woman bedridden due to many illness
 
 [The Real Presence](http://www.therealpresence.org/eucharst/misc/BVM/89_FILIPOV_96x96.pdf)
 
+
+
 #### Author's Note
 
-It has been extremely difficult to find information on this pilgrimage site.  We haven't been able to find a direct link to the shrine.  -JMM
+It has been extremely difficult to find information on this pilgrimage site.  We haven't been able to find a direct link to the shrine, but there is some information on mass times [here](http://cz.poutni-mista-sluknovsko.cz/bazilika-minor-panny-marie-pomocnice-krestanu-filipov.html) (note: website certificate is invalid, but appears to be ok).  -JMM
