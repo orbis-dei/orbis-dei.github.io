@@ -21,3 +21,7 @@ The apparitions have been verified by both the Coptic Orthodox Church and the Ro
 [MaryPages](https://www.marypages.com/zeitoen-ca%C3%AFro-(egypt)-en.html)
 
 [Virgin Mary Church in Zeitoun official site](https://www.stmaryztn.org/saintmary/en/)
+
+#### Author's Note
+
+You can read the statement issued by the Papal Residence in Cairo [here](https://www.stmaryztn.org/saintmary/en/apparition-story/papal-statment).
