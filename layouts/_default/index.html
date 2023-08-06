@@ -74,7 +74,7 @@
 </ul>
 {{- end }}
 
-{{- if gt $paginator.TotalPages 1 }}
+{{- if and (gt $paginator.TotalPages 1) (not .IsHome) }}
 <footer class="page-footer">
   <nav class="pagination">
     {{- if $paginator.HasPrev }}
