@@ -4,6 +4,7 @@ location: {lat: 43.6493065, lng: 13.0472097}
 tags:
 - maria-goretti
 - holy-persons
+- churches
 - italy
 ---
 

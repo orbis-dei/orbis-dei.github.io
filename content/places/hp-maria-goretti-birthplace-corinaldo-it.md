@@ -7,4 +7,4 @@ tags:
 - italy
 ---
 
-Birthplace of St. Maria Goretti
+Here St. Maria Goretti was born on October 16, 1890.

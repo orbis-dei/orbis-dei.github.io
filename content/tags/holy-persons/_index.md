@@ -11,6 +11,7 @@ __Bolded__ individuals have more in-depth pages.
 * [St. Catherine Labouré]({{< ref "/tags/catherine-laboure" >}})
 * [Sts. Francisco and Jacinta Marto]({{< ref "/tags/francisco-and-jacinta-marto" >}})
 * [St. Juan Diego]({{< ref "/tags/juan-diego" >}})
+* __[St. Maria Goretti]({{< ref "/tags/maria-goretti" >}})__
 
 ## Blesseds
 
