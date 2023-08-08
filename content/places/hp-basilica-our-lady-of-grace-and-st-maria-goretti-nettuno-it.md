@@ -15,7 +15,7 @@ In Italian, Santuario di Nostra Signora delle Grazie e Santa Maria Goretti.  The
 
 The remains of St. Maria Goretti lie in the crypt beneath the basilica.  The bones are encased in a wax statue; she is not incorrupt.
 
-The church contains a statue called Our Lady of Grace, which may be the original statue from Ipswich.  Our Lady of Ipswich, along with Our Lady of Walsingham, was one of the largest pilgrimage sites in England up until the Reformation.  During this period, Our Lady of Grace may have been smuggled to Italy.
+The church contains a statue called Our Lady of Grace, which may be the original statue from Ipswich.  Our Lady of Ipswich, along with Our Lady of Walsingham, was one of the largest pilgrimage sites in England up until the Reformation.  During this period, Our Lady of Grace may have been smuggled to Italy.  In modern times, the faithful hold a procession with the statue on the first Saturday each May.
 
 #### More Information
 
