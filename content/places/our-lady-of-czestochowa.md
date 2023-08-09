@@ -4,6 +4,7 @@ location: {lat: 50.812751619291184, lng: 19.096651748272922}
 
 tags:
 - marian-sites
+- convents
 - churches
 - poland
 ---

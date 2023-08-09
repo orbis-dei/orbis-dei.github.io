@@ -4,6 +4,7 @@ location: {lat: 50.2704677, lng: 22.4080316}
 tags:
 - marian-sites
 - bernardines
+- convents
 - churches
 - poland
 ---
