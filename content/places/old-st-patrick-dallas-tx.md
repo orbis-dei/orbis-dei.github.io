@@ -1,5 +1,5 @@
 ---
-title: "Old St. Patrick, Dallas, TX"
+title: "Old St. Patrick Catholic Church, Dallas, TX"
 location: {lat: 32.775131, lng: -96.787789}
 tags:
 - churches
