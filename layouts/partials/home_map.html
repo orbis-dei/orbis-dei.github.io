@@ -31,13 +31,13 @@ function centerOfLine(points) {
 function mapDimensions(locations) {
     latitudes = locations.map((x) => x.lat);
     longitudes = locations.map((x) => x.lng);
-    spread = Math.max(
-        Math.max(...latitudes) - Math.min(...latitudes),
-        Math.max(...longitudes) - Math.min(...longitudes),
-        )
+    latitude_spread = Math.max(...latitudes) - Math.min(...latitudes);
+    longitude_spread = Math.max(...longitudes) - Math.min(...longitudes);
     return {
         center: {lat: centerOfLine(latitudes), lng: centerOfLine(longitudes)}, 
-        zoom_level: Math.floor(Math.log2(640 / spread))
+        zoom_level: Math.min(
+          Math.log2(300 / latitude_spread),
+          Math.log2(600 / longitude_spread))
     }
 }
 
