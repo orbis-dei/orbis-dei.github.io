@@ -6,7 +6,7 @@ The seeds of this site were planted in Lent 2023, during a founder's reflection 
 
 Our Lord tells us, "Blessed are those who have not seen and have believed" ([Jn 20:29](https://bible.usccb.org/bible/john/20)).  As we strive to reach this ideal, the authors' hope is that this website helps the faithful connect with tangible testaments to our Christian faith.  This "World of God" invites us to visit, pray and reflect at holy sites - on the virtues of the saints who trod there, on the messages of our Blessed Mother, and ultimately on how we may grow closer to Christ.
 
-_Dedicated on the Feast of the Assumption, 15 August 2023_
+_Dedicated on the Solemnity of the Assumption, 15 August 2023_
 
 #### The Name
 
