@@ -9,6 +9,7 @@ tags:
 - john-lalande
 - martyrs
 - usa
+- holy-persons
 ---
 
 Built on the site of the Mohawk village of Ossernenon, where Sts. Isaac Jogues, Rene Goupil, and John Lalande were martyred, and where St. Kateri Tekakwitha was born.
