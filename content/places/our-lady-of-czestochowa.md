@@ -17,4 +17,4 @@ The Monastery of Jasna Góra  in Częstochowa, Poland, is the third-largest Cath
 
 [MaryPages](https://www.marypages.com/czestochowa-(poland)-en.html)
 
-[Jasna Góra  official site](https://jasnagora.pl/)
+[Jasna Góra official site](https://jasnagora.pl/)
