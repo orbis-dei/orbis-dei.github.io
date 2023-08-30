@@ -3,7 +3,6 @@ title: "Our Lady of Siluva"
 location: {lat: 55.5306126, lng: 23.2199252}
 tags:
 - marian-sites
-- bernadette-soubirous
 - churches
 - lithuania
 ---
