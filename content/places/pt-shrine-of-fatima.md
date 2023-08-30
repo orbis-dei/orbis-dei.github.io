@@ -16,8 +16,6 @@ While tending sheep in a field called the Cova de Iria, Lucia de Santos (aged 10
 
 | Official Site | The Real Presence | Miracle Hunter | MaryPages |
 | --- | --- | --- | --- |
-| [Link]((https://www.fatima.pt/) | [Link 1](http://www.therealpresence.org/eucharst/misc/BVM/154_FATIMA_96x96_1.pdf)
-[Link 2](http://www.therealpresence.org/eucharst/misc/BVM/154_FATIMA_140x96_2.pdf)
-[Link 3](http://www.therealpresence.org/eucharst/misc/BVM/154_FATIMA_96x96_3.pdf) | [Link](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/fatima/index.html) | [Link](https://www.marypages.com/fatima-(portugal)-1917.html) |
+| [Link](https://www.fatima.pt/) | [Link 1](http://www.therealpresence.org/eucharst/misc/BVM/154_FATIMA_96x96_1.pdf), [Link 2](http://www.therealpresence.org/eucharst/misc/BVM/154_FATIMA_140x96_2.pdf), [Link 3](http://www.therealpresence.org/eucharst/misc/BVM/154_FATIMA_96x96_3.pdf) | [Link](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/fatima/index.html) | [Link](https://www.marypages.com/fatima-(portugal)-1917.html) |
 
 
