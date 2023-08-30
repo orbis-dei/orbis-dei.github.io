@@ -16,6 +16,6 @@ In 1879, 15 individuals witnessed the figures of Mary, Joseph, John the Evangeli
 | --- | --- | --- | --- |
 | [Link](https://www.knockshrine.ie/) | [Link](http://www.therealpresence.org/eucharst/misc/BVM/63_KNOCK_60x96.pdf) | [Link](http://www.miraclehunter.com/marian_apparitions/approved_apparitions/knock/index.html) | [Link](https://www.marypages.com/knock-(ireland)-en.html) |
 
-Author's Note
+#### Author's Note
 
 Thanks to the testimonies of the visionaries, pilgrims today can experience a very accurate representation of the original apparition.  The statues have been placed in the same place as the apparition, in front of the church wall and slightly above ground level.
