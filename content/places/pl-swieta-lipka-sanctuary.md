@@ -14,6 +14,6 @@ In the 13th century, Our Blessed Mother appeared to a condemned innocent person 
 
 | Official Site | The Real Presence | Miracle Hunter | MaryPages |
 | --- | --- | --- | --- |
-| [Link](https://www.swlipka.pl/) | [Link](http://www.therealpresence.org/eucharst/misc/BVM/138_SWIETA_LIPKA_60x96.pdf) | [Link](http://www.miraclehunter.com/marian_apparitions/approved_apparitions/apparitions_1200-1299.html) | |
+| [Link](https://www.swlipka.pl/) | [Link](http://www.therealpresence.org/eucharst/misc/BVM/138_SWIETA_LIPKA_60x96.pdf) | [Link](http://www.miraclehunter.com/marian_apparitions/approved_apparitions/apparitions_1200-1299.html) (Search for "Swieta Lipka") | |
 
 
