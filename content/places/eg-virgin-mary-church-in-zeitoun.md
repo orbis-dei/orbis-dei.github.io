@@ -1,6 +1,6 @@
 ---
 title: "Virgin Mary Church in Zeitoun (Our Lady of Zeitoun, Our Lady of Light)"
-location: {lat: , lng: }
+location: {lat: 30.1046229269409, lng: 31.3155447438101}
 
 tags:
 - marian-sites
