@@ -20,4 +20,4 @@ Catherine Laboure, a novitiate in the order of the Sisters of Charity, received 
 
 #### Author's Note
 
-See also the apparition of [Our Lady of Zion](/places/it-sant-andrea-delle-fratte) in Rome. -JMM
+See also the apparition of [Our Lady of Zion](/places/it-sant-andrea-delle-fratte) in Rome.  -JMM
