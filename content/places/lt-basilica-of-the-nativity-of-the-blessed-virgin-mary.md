@@ -1,5 +1,5 @@
 ---
-title: "Basilica of the Nativity of the Blessed Virgin Mary (Our Lady of Šiluva)"
+title: "Basilica of the Nativity of the Blessed Virgin Mary (Our Lady of Siluva)"
 location: {lat: 55.5306126, lng: 23.2199252}
 
 tags:

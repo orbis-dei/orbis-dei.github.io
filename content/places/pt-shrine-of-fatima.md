@@ -1,5 +1,5 @@
 ---
-title: "Sanctuary of Our Lady of the Rosary of Fátima"
+title: "Sanctuary of Our Lady of the Rosary of Fatima"
 location: {lat: 39.6312638, lng: -8.6731571}
 
 tags:
