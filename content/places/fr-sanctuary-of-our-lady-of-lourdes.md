@@ -1,5 +1,5 @@
 ---
-title: "Sanctuary of Lourdes (Our Lady of Lourdes)"
+title: "Sanctuary of Our Lady of Lourdes"
 location: {lat: 43.0974206, lng: -0.0582611}
 
 tags:
