@@ -1,6 +1,6 @@
 ---
 title: "National Sanctuary of Our Lady of Cuapa"
-location: {lat: 12.250924807687, lng: 85.3782746081611}
+location: {lat: 12.250924807687, lng: -85.3782746081611}
 
 tags:
 - marian-sites
