@@ -8,7 +8,7 @@ tags:
 - japan
 ---
 
-Sister Agnes Sasagawa of the Handmaids of the Eucharist received visions of an angel and messages emanating from a wooden statue that wept 101 times, including one time which was broadcast on Japanese national television in December 1973.
+Sister Agnes Sasagawa received visions of an angel and messages emanating from a wooden statue of Our Lady which wept 101 times, including one instance which was broadcast on Japanese national television in December 1973.
 
 #### Source Material
 
