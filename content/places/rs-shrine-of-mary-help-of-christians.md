@@ -14,8 +14,8 @@ In 1792, the Virgin Mary appeared to a blind man, advising him to bathe his eyes
 
 | Official Site | The Real Presence | Miracle Hunter | MaryPages |
 | --- | --- | --- | --- |
-| [Link](https://szentkut.eu/) | [Link](http://www.therealpresence.org/eucharst/misc/BVM/104_DOROSZLO_60x96.pdf) | [Link](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/apparitions_1700-1799.html) (Search "Doroszlo") | |
+| [Link](https://szentkut.eu/), [Link](https://doroszlo.net/) | [Link](http://www.therealpresence.org/eucharst/misc/BVM/104_DOROSZLO_60x96.pdf) | [Link](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/apparitions_1700-1799.html) (Search "Doroszlo") | |
 
 #### Author's Note
 
-At the time of this miracle the land belonged to Hungary; a few sources still refer to the site as Hungarian, and the official page appears to reflect this heritage.  -JMM
+At the time of this miracle the land belonged to Hungary; a few sources still refer to the site as Hungarian.  The two potential official pages listed may not be accurate; please [contact us](/contact) if you have any better information.  -JMM
