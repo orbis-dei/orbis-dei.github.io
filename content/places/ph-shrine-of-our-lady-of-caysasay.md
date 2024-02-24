@@ -18,4 +18,6 @@ _Research in progress_
 
 #### Author's Note
 
-The Facebook page appears to be the official site.  -JMM
+The Facebook page appears to be the official site.
+
+- JMM

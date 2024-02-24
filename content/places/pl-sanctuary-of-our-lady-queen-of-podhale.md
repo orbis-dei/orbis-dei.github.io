@@ -21,4 +21,6 @@ A regular visitor to the shrine was Karol Wojtyla, the future Pope St. John Paul
 
 #### Author's Note
 
-Some good information on [Catholic Shrine Basilica](https://catholicshrinebasilica.com/sanctuary-of-our-lady-of-ludzmierz-poland/).  -JMM
+Some good information on [Catholic Shrine Basilica](https://catholicshrinebasilica.com/sanctuary-of-our-lady-of-ludzmierz-poland/).
+
+- JMM

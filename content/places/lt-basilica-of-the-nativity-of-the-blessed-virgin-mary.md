@@ -18,4 +18,6 @@ One summer day, in 1608, a number of children were playing while tending their s
 
 #### Author's Note
 
-Additional info and a good history [here](https://www.ourladyofsiluva.org/our_lady/).  -JMM
+Additional info and a good history [here](https://www.ourladyofsiluva.org/our_lady/).
+
+- JMM

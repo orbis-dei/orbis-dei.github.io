@@ -18,4 +18,6 @@ In 1866, Magdalene Kade, an orphaned 31 year woman bedridden due to many illness
 
 #### Author's Note
 
-It has been extremely difficult to find information on this pilgrimage site.  The "official site" above seems to reference several pilgrimage destinations in the area, and its worship times are outdated at time of writing.  We'd recommend checking the Facebook site for more up-to-date information.  -JMM
+It has been extremely difficult to find information on this pilgrimage site.  The "official site" above seems to reference several pilgrimage destinations in the area, and its worship times are outdated at time of writing.  We'd recommend checking the Facebook site for more up-to-date information.
+
+- JMM

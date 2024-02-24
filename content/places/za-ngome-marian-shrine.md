@@ -19,4 +19,6 @@ _Research in progress_
 
 #### Author's Note
 
-The main website is down at time of writing; we'd recommend using the Facebook page as a backup source.  -JMM
+The main website is down at time of writing; we'd recommend using the Facebook page as a backup source.
+
+- JMM

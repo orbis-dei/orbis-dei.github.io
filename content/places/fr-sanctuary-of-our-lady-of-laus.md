@@ -17,4 +17,8 @@ Benoite Rencurel, a poor shepherdess, received apparitions from the Virgin Mary 
 | --- | --- | --- | --- |
 | [Link](https://www.sanctuaire-notredamedulaus.com/) | [Link](http://www.therealpresence.org/eucharst/misc/BVM/69_LAUS_140x96.pdf) | [Link](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/laus/index.html) | [Link](https://www.marypages.com/laus-(france)-en.html) |
 
+#### Author's Note
 
+One of the most picturesque apparition sites to visit!  The road between Laus and nearby [La Salette](/places/fr-sanctuary-of-our-lady-of-la-salette) winds through the French Alpine countryside.
+
+- JMM
