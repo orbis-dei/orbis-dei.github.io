@@ -18,4 +18,6 @@ _Research in progress_
 
 #### Author's Note
 
-We can't find an official website for the parish; their Facebook page has been listed for now.  -JMM
+We can't find an official website for the parish; their Facebook page has been listed for now.
+
+- JMM
