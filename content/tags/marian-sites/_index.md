@@ -6,7 +6,7 @@ This page lists Marian apparitions, shrines and other devotional sites.
 
 #### Background
 
-Over time, there have been hundreds of reported apparitions of Our Blessed Mother.  For many years, there was no formalized approval process, so oftentimes the construction of a sanctuary or church would signify approval and recognition of the site.  Many of these "traditionally approved" sites have since been visited by bishops and popes who have encouraged the associated devotion.
+Over time, there have been hundreds of reported apparitions of Our Blessed Mother.  For many years, there was no formalized approval process, and recognition was often signified simply by the construction of a sanctuary or church.  Many of these "traditionally approved" sites have since been visited by bishops and popes who have encouraged the associated devotion.
 
 In the modern era, reported apparitions are generally grouped into three categories:
 
@@ -24,4 +24,4 @@ In addition to traditional sites, we have sought to present apparition sites fro
 
 #### Author's Note
 
-Page under construction (sites still being added) - estimating completion by December 2023. -JMM
+Page under construction (sites still being added). -JMM
