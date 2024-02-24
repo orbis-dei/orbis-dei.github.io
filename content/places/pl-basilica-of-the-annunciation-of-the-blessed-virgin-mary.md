@@ -20,4 +20,6 @@ In 1578, a pious woodcutter named Tomasz Michalek saw a bright light in the fore
 
 #### Author's Note
 
-The monastery has published an excellent history of the shrine [here](https://lezajsk.bernardyni.pl/historia/) (in Polish).  -JMM
+The monastery has published an excellent history of the shrine [here](https://lezajsk.bernardyni.pl/historia/) (in Polish).
+
+- JMM
