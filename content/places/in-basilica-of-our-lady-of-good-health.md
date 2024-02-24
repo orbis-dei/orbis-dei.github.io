@@ -16,4 +16,8 @@ According to tradition, there have been multiple apparitions of the Blessed Virg
 | --- | --- | --- | --- |
 | [Link](https://www.velankannichurch.com/) | [Link](http://www.therealpresence.org/eucharst/misc/BVM/32_VAILANKANNI_60x96.pdf) | [Link](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/vailankanni/) | [Link](https://www.marypages.com/vailankanni-(india)-en.html) |
 
+#### Author's Note
 
+An Indonesian parish of the same name also has a [good history](https://velangkanni.com/en/about-annai-velangkanni/) of the apparition.
+
+- NDS
