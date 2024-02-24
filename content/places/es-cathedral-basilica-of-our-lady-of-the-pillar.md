@@ -19,4 +19,6 @@ According to ancient Christian tradition, Mary appeared to the apostle James the
 
 #### Author's Note
 
-Unfortunately many modern visitors to the cathedral are interested more in its rooftop views, so it's important to be specific when asking for accurate information about services.  The cathedral website lists their service schedule [here](https://catedraldezaragoza.es/culto/).  -JMM
+Unfortunately many modern visitors to the cathedral are more interested in its rooftop views, so it's important to be specific when asking for accurate information about services.  The cathedral website lists their service schedule [here](https://catedraldezaragoza.es/culto/).
+
+- JMM
