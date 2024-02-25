@@ -13,3 +13,5 @@ National church of Belgium.  St. Gudula's relics were kept here until they were 
 #### Author's Note
 
 This church has the most awesome pulpit I have ever seen.
+
+- JPY

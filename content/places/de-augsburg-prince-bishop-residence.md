@@ -8,4 +8,10 @@ tags:
 - reformation
 ---
 
-This building is on the site where the Diet of Augsburg in 1530 took place, where the Augsburg Confession was presented.  Pray for Christian Unity and for our Protestant brethern to come to the True Faith.
+This building is on the site where the Diet of Augsburg in 1530 took place, where the Augsburg Confession was presented.
+
+#### Author's Note
+
+Let us pray for Christian unity and for our Protestant brethern to come to the True Faith.
+
+- JPY
