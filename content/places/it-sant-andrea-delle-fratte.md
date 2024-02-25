@@ -7,8 +7,8 @@ tags:
 - marian-sites
 - churches
 - italy
-- marie-alphonse-ratisbonne
 - rome
+- marie-alphonse-ratisbonne
 ---
 
 Marie Alphonse Ratisbonne, an anti-Catholic Jew, befriended a baron in Rome and began wearing the [Miraculous Medal](/places/fr-chapel-of-our-lady-of-the-miraculous-medal) as a simple test.  On January 20, 1842, after entering the church of Sant'Andrea delle Fratte, Ratisbonne experienced a vision of the Blessed Virgin Mary.  He converted to Catholicism, joined the priesthood, and began a ministry for the conversion of Jews.
