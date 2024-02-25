@@ -1,6 +1,7 @@
 ---
 title: "Cathedral-Basilica of Our Lady of the Pillar"
 location: {lat: 41.6566567693307, lng: -0.878240620546361}
+level: global
 
 tags:
 - marian-sites

@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Our Lady of Lourdes"
 location: {lat: 43.0974206, lng: -0.0582611}
+level: global
 
 tags:
 - marian-sites

@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Pontmain (Mother of Hope)"
 location: {lat: 48.4396021, lng: -1.0592325}
+level: global
 
 tags:
 - marian-sites

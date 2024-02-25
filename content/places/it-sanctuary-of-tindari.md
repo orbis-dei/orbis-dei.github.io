@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Holy Mary of Tindari"
 location: {lat: 38.1412714600159, lng: 15.0456795824699}
+level: global
 
 tags:
 - marian-sites

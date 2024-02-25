@@ -1,6 +1,7 @@
 ---
 title: "Basilica of Our Lady of Guadalupe"
 location: {lat: 19.4834328, lng: -99.1174103}
+level: global
 
 tags:
 - marian-sites

@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of the Our Lady of Valverde"
 location: {lat: 45.5236738652071, lng: 10.3142692079531}
+level: global
 
 tags:
 - marian-sites

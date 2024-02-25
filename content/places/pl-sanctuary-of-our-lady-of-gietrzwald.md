@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Our Lady of Gietrzwald"
 location: {lat: 53.7480853, lng: 20.2356024}
+level: global
 
 tags:
 - marian-sites

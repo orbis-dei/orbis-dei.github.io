@@ -1,6 +1,7 @@
 ---
 title: "Seitai Hoshikai (Our Lady of Akita)"
 location: {lat: 39.7592244041621, lng: 140.14975314135}
+level: global
 
 tags:
 - marian-sites

@@ -1,6 +1,7 @@
 ---
 title: "Basilica of the Annunciation of the Blessed Virgin Mary (Our Lady of Lezajsk, Lady of Consolation)"
 location: {lat: 50.2704677, lng: 22.4080316}
+level: global
 
 tags:
 - marian-sites

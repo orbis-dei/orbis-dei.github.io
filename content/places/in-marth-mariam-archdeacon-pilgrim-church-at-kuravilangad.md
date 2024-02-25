@@ -1,6 +1,7 @@
 ---
 title: "Major Archiepiscopal Marth Mariam Archdeacon Pilgrim Church at Kuravilangad"
 location: {lat: 9.754446, lng: 76.56482}
+level: global
 
 tags:
 - marian-sites

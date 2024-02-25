@@ -1,6 +1,7 @@
 ---
 title: "Archdiocesan Shrine of Our Lady of Caysasay"
 location: {lat: 13.8821815225981, lng: 120.920278855358}
+level: global
 
 tags:
 - marian-sites

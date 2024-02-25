@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Our Lady of La Salette"
 location: {lat: 44.8586296, lng: 5.9788044}
+level: global
 
 tags:
 - marian-sites
