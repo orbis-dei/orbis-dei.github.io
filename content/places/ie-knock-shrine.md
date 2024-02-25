@@ -21,4 +21,4 @@ In 1879, 15 individuals witnessed the figures of Mary, Joseph, John the Evangeli
 
 Thanks to the testimonies of the visionaries, pilgrims today can experience a very accurate representation of the original apparition.  The statues have been placed in the same place as the apparition, in front of the church wall and slightly above ground level.
 
-- JMM
+-JMM

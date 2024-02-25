@@ -1,6 +1,7 @@
 ---
 title: "Tenda del Perdono"
 location: {lat: 41.456946, lng: 12.64985}
+level: local
 tags:
 - maria-goretti
 - holy-persons

@@ -21,4 +21,4 @@ In 1792, the Virgin Mary appeared to a blind man, advising him to bathe his eyes
 
 At the time of this miracle the land belonged to Hungary; a few sources still refer to the site as Hungarian.  The two potential official pages listed may not be accurate; please [contact us](/contact) if you have any better information.
 
-- JMM
+-JMM

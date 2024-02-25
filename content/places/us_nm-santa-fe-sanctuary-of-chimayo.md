@@ -1,9 +1,10 @@
 ---
-title: "Santuario de Chimayo"
+title: "Sanctuary of Chimayo"
 location: {lat: 35.989201, lng: -105.9318022}
+level: regional
 tags:
 - churches
-- santa-fe-nm
+- santa-fe
 - shrines
 - usa
 ---

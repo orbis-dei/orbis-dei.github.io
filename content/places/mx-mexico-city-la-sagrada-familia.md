@@ -5,6 +5,7 @@ tags:
 - miguel-pro
 - churches
 - holy-persons
+- mexico-city
 ---
 
 This church, aside from being incredibly beautiful, is where Bl. Miguel Pro's remains are kept, to the right of the main altar.  His funeral procession passed in front of this church, though we are not sure if he had a funeral here.

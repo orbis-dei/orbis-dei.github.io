@@ -23,4 +23,4 @@ With the Prussian occupation of Poland, the sanctuary was defiled and the linden
 
 Because of the Jesuit influence, there are noticeable similarities to the Chiesa del Gesù in Rome, both in decoration and function.  The image of Our Blessed Mother behind the altar is covered after each mass, similar to some Jesuit churches in Rome.
 
-- JMM
+-JMM

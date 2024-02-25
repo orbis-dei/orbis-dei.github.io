@@ -4,14 +4,20 @@ location: {lat: 48.36147923933514, lng: 10.900071214969271}
 level: regional
 tags:
 - churches
-- augsburg-de
+- augsburg
 - germany
 - ulrich
 - afra
+- simpert
+- holy-persons
 ---
 
 Site of the martyrdom of St. Afra and burial place of Sts. Afra, Ulrich (the first canonized saint), and Simpert (778-807).
 
+[Basilica website](https://ulrich-afra-anton.de)
+
+#### Author's Note
+
 Sts. Ulrich and Afra are buried in the crypt beneath the high altar.  You can reach them with some steep stairs on either side of the high altar.  St. Simpert's tomb is in a chapel along the right side of the nave.
 
-[Basilica website](https://ulrich-afra-anton.de)
+-JPY

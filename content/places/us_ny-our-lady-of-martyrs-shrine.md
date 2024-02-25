@@ -1,6 +1,7 @@
 ---
 title: "Shrine of Our Lady of Martyrs"
 location: {lat: 42.9249911, lng: -74.3022492}
+level: regional
 tags:
 - churches
 - kateri-tekakwitha

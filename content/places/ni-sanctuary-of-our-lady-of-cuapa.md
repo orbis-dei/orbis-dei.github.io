@@ -21,4 +21,4 @@ _Research in progress_
 
 We can't find an official website for the parish; their Facebook page has been listed for now.
 
-- JMM
+-JMM

@@ -25,6 +25,6 @@ Testing has shown the image to be of indeterminate origin. Geologists from Germa
 
 #### Author's Note
 
-Mass intentions requested at the gift shop will be prayed for at the very next mass.  Similar to the custom at [Our Lady of the Miraculous Medal](/places/fr-chapel-of-our-lady-of-the-miraculous-medal), grateful pilgrims have given thanks for answered prayers in the form of plaques lining the stairway down to the shrine.
+Mass intentions requested at the gift shop will be prayed for at the very next mass.  Similar to the custom at [Our Lady of the Miraculous Medal](/places/fr-paris-chapel-of-our-lady-of-the-miraculous-medal), grateful pilgrims have given thanks for answered prayers in the form of plaques lining the stairway down to the shrine.
 
-- JMM
+-JMM

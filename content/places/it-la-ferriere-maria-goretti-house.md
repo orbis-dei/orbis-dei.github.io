@@ -1,6 +1,7 @@
 ---
 title: "House of St. Maria Goretti"
 location: {lat: 41.5161008, lng: 12.7567}
+level: regional
 tags:
 - maria-goretti
 - holy-persons

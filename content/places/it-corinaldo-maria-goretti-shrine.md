@@ -1,6 +1,7 @@
 ---
 title: "Shrine of St. Maria Goretti, Corinaldo"
 location: {lat: 43.6493065, lng: 13.0472097}
+level: regional
 tags:
 - maria-goretti
 - holy-persons

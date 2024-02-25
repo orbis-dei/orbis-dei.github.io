@@ -22,4 +22,4 @@ Benoite Rencurel, a poor shepherdess, received apparitions from the Virgin Mary 
 
 One of the most picturesque apparition sites to visit!  The road between Laus and nearby [La Salette](/places/fr-sanctuary-of-our-lady-of-la-salette) winds through the French Alpine countryside.
 
-- JMM
+-JMM

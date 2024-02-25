@@ -26,4 +26,4 @@ The apparitions have been verified by both the Coptic Orthodox Church and the Ro
 
 You can read the statement issued by the Papal Residence in Cairo [here](https://www.stmaryztn.org/saintmary/en/apparition-story/papal-statment).
 
-- JMM
+-JMM

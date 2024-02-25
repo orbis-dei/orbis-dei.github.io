@@ -10,7 +10,7 @@ tags:
 - jean-gabriel-perboyre
 ---
 
-Vincentian church housing the relics of Sts. Vincent de Paul and Jean-Gabriel Perboyre.  St. Vincent de Paul's heart is nearby at the more famous [Miraculous Medal Chapel](/places/fr-chapel-of-our-lady-of-the-miraculous-medal).
+Vincentian church housing the relics of Sts. Vincent de Paul and Jean-Gabriel Perboyre.  St. Vincent de Paul's heart is nearby at the more famous [Miraculous Medal Chapel](/places/fr-paris-chapel-of-our-lady-of-the-miraculous-medal).
 
 #### Author's Note
 
