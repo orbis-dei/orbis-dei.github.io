@@ -1,6 +1,7 @@
 ---
 title: "Blessed Sacrament Catholic Church, Dallas, TX"
 location: {lat: 32.751, lng: -96.8159986}
+level: local
 tags:
 - churches
 - dallas-tx

@@ -1,6 +1,7 @@
 ---
 title: "Original Site of Trinity College / Dallas University / Jesuit Dallas"
 location: {lat: 32.814343, lng: -96.8018151,}
+level: local
 tags:
 - closed
 - dallas-tx

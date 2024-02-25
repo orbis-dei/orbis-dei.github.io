@@ -1,6 +1,7 @@
 ---
 title: "Original Site of St. Paul Sanitarium, Dallas, TX"
 location: {lat: 32.7942111, lng: -96.7889278}
+level: local
 tags:
 - closed
 - dallas-tx

@@ -1,6 +1,7 @@
 ---
 title: "Blessed Stanley Rother Shrine"
 location: {lat: 35.375800, lng: -97.49750}
+level: regional
 tags:
 - stanley-rother
 - holy-persons

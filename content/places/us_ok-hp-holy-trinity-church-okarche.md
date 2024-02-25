@@ -1,6 +1,7 @@
 ---
 title: "Holy Trinity Catholic Church, Okarche, OK"
 location: {lat: 35.7284903, lng: -97.975802}
+level: local
 tags:
 - stanley-rother
 - holy-persons
