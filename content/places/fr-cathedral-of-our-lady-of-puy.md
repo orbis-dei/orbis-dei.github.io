@@ -6,7 +6,7 @@ tags:
 - france
 - churches
 - marian-sites
-- camino-de-santiago
+- camino
 
 ---
 
