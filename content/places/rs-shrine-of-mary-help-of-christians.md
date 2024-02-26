@@ -12,7 +12,7 @@ tags:
 
 In 1792, the Virgin Mary appeared to a blind man, advising him to bathe his eyes in a miraculous fountain.  Upon his healing, a chapel was built and was eventually expanded to a larger church.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://szentkut.eu/)
 * [Additional site](https://doroszlo.net/)

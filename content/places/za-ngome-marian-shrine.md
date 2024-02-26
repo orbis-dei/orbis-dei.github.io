@@ -13,7 +13,7 @@ tags:
 
 _Research in progress_
 
-#### Source Material
+#### More Information
 
 * [Official site](http://www.ngome.co.za/) (note: website not active at time of writing)
 * [Official Facebook page](https://www.facebook.com/ngomemarianshrine/)

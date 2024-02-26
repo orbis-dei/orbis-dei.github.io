@@ -14,7 +14,7 @@ tags:
 
 According to ancient Christian tradition, Mary appeared to the apostle James the Greater as he was preaching in Spain.  In 40 AD, while facing severe discouragement, St. James was praying on the banks of the Ebro River when the Blessed Mother appeared to him on a column, encouraging him to persevere in his missionary efforts.  This apparition is unique because Mary would have bilocated while still alive in Jerusalem or Ephesus.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://catedraldezaragoza.es/basilica/)
 

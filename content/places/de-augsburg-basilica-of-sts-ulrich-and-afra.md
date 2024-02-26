@@ -16,7 +16,7 @@ tags:
 
 Site of the martyrdom of St. Afra and burial place of Sts. Afra, Ulrich (the first canonized saint) and Simpert (778-807).
 
-#### Source Material
+#### More Information
 
 * [Official site](https://ulrich-afra-anton.de)
 

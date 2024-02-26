@@ -14,7 +14,7 @@ tags:
 
 The Monastery of Jasna Gora in Czestochowa, Poland, is the third-largest Catholic pilgrimage site in the world.  Home to the beloved miraculous icon of Our Lady of Czestochowa, the monastery is also the national shrine of Poland and a pillar of Polish Catholicism.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://jasnagora.pl/)
 

@@ -12,7 +12,7 @@ tags:
 
 Tradition dicates that the Blessed Mother showed herself to a middle-aged farmer and gave him a message on where she wanted her church to be built, appearing to him on a tree amidst a heavenly glow.  Today the center of devotion is the miraculous image of Our Lady of the Holy Rosary (Nuestra Señora de Manaoag, or Apo Baket as known to the local townspeople).
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.manaoagminorbasilica.org/)
 

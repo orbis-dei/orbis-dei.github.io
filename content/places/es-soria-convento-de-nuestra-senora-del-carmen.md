@@ -16,7 +16,7 @@ tags:
 
 The fifteenth of 17 communities founded by St. Teresa of Avila, in 1581.
 
-#### Source Material
+#### More Information
 
 * [Soria tourism site](https://www.turismosoria.es/en/what-to-see/monuments/convent-of-el-carmen/)
 

@@ -19,7 +19,7 @@ Founded in 1478, this Carmelite convent in Avila was where Saint Teresa entered 
 
 St. John of the Cross spent notable amounts of time here as well, and during one session of prayer, received a vision of Christ on the Cross from "above."  The saint's drawing remains at the museum.
 
-#### Source Material
+#### More Information
 
 * [Avila tourism site](https://www.avilaturismo.com/en/monatery-of-la-encarnacion)
 

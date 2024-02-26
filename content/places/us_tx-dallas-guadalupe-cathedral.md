@@ -15,7 +15,7 @@ Originally dedicated to the Sacred Heart, this parish is the oldest in the city 
 
 In 2023 the cathedral was elevated to a National Shrine by the US Conference fo Catholic Bishops.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.cathdal.org/cathedral)
 

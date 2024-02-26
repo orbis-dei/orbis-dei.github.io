@@ -13,7 +13,7 @@ tags:
 
 The first black parish in Dallas, founded in 1905, is now home to the area's Polish community.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://stpeterdal.com/)
 * [Parish history](https://stpeterdal.com/about/#History)

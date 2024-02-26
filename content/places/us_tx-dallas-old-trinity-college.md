@@ -19,7 +19,7 @@ The building later housed Jesuit Prepatory School until it moved next to St. Rit
 
 ![Dallas University](https://flashbackdallas.files.wordpress.com/2016/05/jesuit_legacies_fall-2005.jpg)
 
-#### Source Material
+#### More Information
 
 * [School in the 1922 Sanborn map](https://maps.lib.utexas.edu/maps/sanborn/d-f/txu-sanborn-dallas-1921-287.jpg)
 

@@ -17,7 +17,7 @@ Original site of Ursuline Academy and the Ursuline Convent.  It is unclear why t
 
 ![Ursuline academy](https://www.tshaonline.org/images/handbook/entries/DD/Dallas%20ursuline%20aerial.jpg)
 
-#### Source Material
+#### More Information
 
 * [Ursuline history article](https://www.ursulinedallas.org/mission/heritage) (includes pictures of this convent)
 * [Additional Ursuline history article](https://www.tshaonline.org/handbook/entries/ursuline-academy-dallas) (includes pictures)

@@ -21,7 +21,7 @@ The remains of St. Maria Goretti lie in the crypt beneath the basilica.  The bon
 
 The church contains a statue called Our Lady of Grace, which may be the original statue from Ipswich.  Our Lady of Ipswich, along with Our Lady of Walsingham, was one of the largest pilgrimage sites in England up until the Reformation.  During this period, Our Lady of Grace may have been smuggled to Italy.  In modern times, the faithful hold a procession with the statue on the first Saturday each May.
 
-#### Source Material
+#### More Information
 
 * [Official site](http://www.santuarionettuno.it/) (note: website not active at time of writing)
 * [Official Facebook page](https://www.facebook.com/profile.php?id=100069705631532)

@@ -12,7 +12,7 @@ tags:
 
 In 1877, Our Lady appeared to Justyna Szafrynska (13) just before receiving her First Holy Communion.  The next day, Barbara Samulowska (12) also saw the "Bright Lady" sitting on the throne with Infant Christ among angels.  The Blessed Mother's ask of the girls was for them to pray the rosary daily.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://sanktuariummaryjne.pl/)
 

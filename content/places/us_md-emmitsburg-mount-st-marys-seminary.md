@@ -15,7 +15,7 @@ tags:
 
 Bl. Stanley Rother completed his studies at Mount Saint Mary's Seminary and was ordained a priest on May 25, 1963.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://seminary.msmary.edu/)
 

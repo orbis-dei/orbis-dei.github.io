@@ -15,7 +15,7 @@ tags:
 
 Bl. Stanley Rother was a parishioner at Holy Trinity Catholic Church, where he received his sacraments and studied at Holy Trinity Catholic School.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.holytrinityok.org/)
 

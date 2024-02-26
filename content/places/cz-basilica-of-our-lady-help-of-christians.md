@@ -12,7 +12,7 @@ tags:
 
 In 1866, Magdalene Kade, an orphaned 31 year woman bedridden due to many illnesses, received a vision of the Blessed Virgin Mary, who immediately cured her.  A bishop's commission examined the miraculous event and recognized the healing and supernatural character.  A church was built by 1885 and elevated to a minor basilica by Pope Leo XIII, who officially consecrated it and dedicated to Mary, "Help of Christians."
 
-#### Source Material
+#### More Information
 
 * [Official site](http://cz.poutni-mista-sluknovsko.cz/bazilika-minor-panny-marie-pomocnice-krestanu-filipov.html)
 * [Official Facebook page](https://www.facebook.com/poutnimistofilipov)

@@ -15,7 +15,7 @@ This church was originally founded in the 13th century by Cistercians from Franc
 
 A regular visitor to the shrine was Karol Wojtyla, the future Pope St. John Paul II.  In August 1963, in his capacity as Archbishop of Kraków, the statue slipped during a ceremony and the future pontiff caught the scepter which had fallen out of the statue's grasp.  This scene was interpreted by many as a prophecy of his upcoming papacy.
 
-#### Source Material
+#### More Information
 
 * [Official site](ps://www.mbludzm.pl/)
 

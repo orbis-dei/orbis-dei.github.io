@@ -14,7 +14,7 @@ tags:
 
 In a series of apparitions in 1858, the Virgin Mary appeared to St. Bernadette Soubirous.  The stream of holy water which St. Bernadette uncovered has become a well-known source of healing, and Lourdes is now a major pilgrimage destination.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.lourdes-france.org/)
 

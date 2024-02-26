@@ -12,7 +12,7 @@ tags:
 
 _Research in progress_
 
-#### Source Material
+#### More Information
 
 * [Official site](http://www.tapinu.org/)
 

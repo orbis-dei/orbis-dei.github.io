@@ -17,7 +17,7 @@ tags:
 
 Catherine Laboure, a novitiate in the order of the Sisters of Charity, received various visions of St. Vincent de Paul and of Jesus present in the Eucharist, before also experiencing two apparitions of the Blessed Virgin Mary.  In the first vision, 1830, Catherine was told of the impending travails of France and of an unspecified future mission.  Several months later she received a message detailing the designs for a medal, later known as the Miraculous Medal, now reproduced over a billion times and distributed around the world.  The apparition was investigated in 1836 and later approved.  St. Catherine worked for 46 more years in hospices of her Order tending to the aged and infirmed, and is now known as the patroness of seniors.  Her body currently lies incorrupt at the site of the apparition in Paris (immediate right side of the altar), alongside St. Louise de Marillac (left of the altar) and the heart of St. Vincent de Paul (furthest right).
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.chapellenotredamedelamedaillemiraculeuse.com/)
 

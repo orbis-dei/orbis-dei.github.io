@@ -17,7 +17,7 @@ For three years Our Lady appeared on many occasions, taking many forms and somet
 
 The apparitions have been verified by both the Coptic Orthodox Church and the Roman Catholic Church through the Papal Residence in Cairo.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.stmaryztn.org/saintmary/en/)
 

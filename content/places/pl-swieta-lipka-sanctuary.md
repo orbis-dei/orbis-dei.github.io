@@ -14,7 +14,7 @@ In the 13th century, Our Blessed Mother appeared to a condemned innocent person 
 
 With the Prussian occupation of Poland, the sanctuary was defiled and the linden tree cut down.  Upon Poland's independence, Jesuits were invited to renew the sanctuary, and it remains in beautiful condition to this day.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.swlipka.pl/)
 

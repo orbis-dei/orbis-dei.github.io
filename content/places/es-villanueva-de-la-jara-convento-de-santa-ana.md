@@ -16,7 +16,7 @@ tags:
 
 The thirteenth of 17 communities founded by St. Teresa of Avila, in 1580.
 
-#### Source Material
+#### More Information
 
 * [Villanueva de la Jara offical site](https://www.villanuevadelajara.eu/english/the-footprints-of-st-teresa-of-jesus-in-villanueva-de-la-jara/)
 

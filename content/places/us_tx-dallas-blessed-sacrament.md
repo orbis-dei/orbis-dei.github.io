@@ -13,7 +13,7 @@ tags:
 
 Second oldest parish in the city of Dallas, but established when Oak Cliff was a separate city.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.bsdallas.org/)
 * [Parish history](https://www.bsdallas.org/about-our-parish)

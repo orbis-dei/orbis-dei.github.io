@@ -19,7 +19,7 @@ tags:
 
 Built on the site of the Mohawk village of Ossernenon, where Sts. Isaac Jogues, Rene Goupil, and Jean de Lalande were martyred, and where St. Kateri Tekakwitha was born.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.ourladyofmartyrsshrine.org/)
 * [Article from Catholic World Report](https://www.catholicworldreport.com/2023/04/07/visiting-el-santuario-de-chimayo-the-most-popular-pilgrimage-site-in-america/)

@@ -12,7 +12,7 @@ tags:
 
 The Shrine of Our Lady of Valverde dates back to 1399, when Our Lady appeared to a farmer plowing his field.  During the summer of 1711, when the province was hit by a severe epidemic, the inhabitants of Rezzato prayed to Our Lady of Valverde.  On October 1, Our Lady appeared a second time to Paul Ogna, 8, and Francesco Pelizzari, 11, who went to collect chestnuts near the Sanctuary pond.  Our Lady promised the end of the epidemic.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.uprezzatovirle.it/santuario-valverde)
 

@@ -13,7 +13,7 @@ tags:
 
 In 47 AD, Our Lady appeared to a recent Christian convert, in a chapel built few years before on a high mountain. This woman was plagued by a serious illness and no doctor had been able to help.  The Blessed Mother, during her appearance, completely cured her.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.cathedraledupuy.org/)
 

@@ -14,7 +14,7 @@ tags:
 
 A wealthy but childless Christian Roman couple wanted to appoint the Virgin Mary as heiress of their property. On the night of August 4, Mary appeared simultaneously to the couple and Pope Liberius, expressing the wish that a church be erected on Esquiline Hill.  The morning of August 5, miraculous snow fell on a narrow piece of land, upon which the Church of Liberius was constructed.  This Marian shrine was replaced in the fifth century with a great church named Santa Maria Maggiore, which is now one of the four papal basilicas.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.vatican.va/various/basiliche/sm_maggiore/index_en.html)
 

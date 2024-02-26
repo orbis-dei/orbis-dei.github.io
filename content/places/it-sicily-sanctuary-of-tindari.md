@@ -13,7 +13,7 @@ tags:
 
 _Research in progress_
 
-#### Source Material
+#### More Information
 
 * [Official site](https://santuariotindari.it/)
 

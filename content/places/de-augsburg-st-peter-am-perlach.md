@@ -13,7 +13,7 @@ tags:
 
 Home of the image Our Lady Undoer of Knots.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://sankt-peter-am-perlach.de)
 

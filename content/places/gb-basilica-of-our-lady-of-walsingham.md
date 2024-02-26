@@ -14,7 +14,7 @@ In 1061, Our Lady appeared to Richeldis de Faverches, a Catholic English noblewo
 
 Our Lady of Walsingham presented her with the plans of the Holy House of the Holy Family in Nazareth and asked that she build the house as a shrine and place of pilgrimage.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.walsingham.org.uk/)
 

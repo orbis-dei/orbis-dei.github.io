@@ -17,7 +17,7 @@ tags:
 
 The sixteenth of 17 communities founded by St. Teresa of Avila, in 1582.  Co-founded with St. John of the Cross.
 
-#### Source Material
+#### More Information
 
 * [Official site](http://www.carmelitasdescalzasgranada.es/) (note: website not active at time of writing)
 * [Information from the Federacion Virgen del Carmen](https://federacionvirgendelcarmen.wordpress.com/conventos/convento-de-san-jose-granada/)

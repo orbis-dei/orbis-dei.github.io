@@ -12,7 +12,7 @@ tags:
 
 In 1846, the Blessed Virgin Mary appeared to 11-year-old Maximin Giraud and 14-year-old Melanie Calvat-Mathieu while they tended sheep in a small French Alpine village.  Her appearance in sorrow and tears called for conversion and repentance.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://lasalette.cef.fr/)
 

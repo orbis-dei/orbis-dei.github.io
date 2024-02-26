@@ -14,7 +14,7 @@ tags:
 
 Cathedral of the Diocese of Augsburg.  St. Peter Canisius was appointed the "cathedral preacher" here in 1559.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://bistum-augsburg.de/Bistum/Unser-Bistum/Kathedrale/Hoher-Dom)
 

@@ -12,7 +12,7 @@ tags:
 
 Construction on the cathedral first began in the 12th century and continued up until the 17th century.  As part of the Old Town of Avila, it was inscribed as a UNESCO World Heritage site in 1985.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://catedralavila.es/)
 

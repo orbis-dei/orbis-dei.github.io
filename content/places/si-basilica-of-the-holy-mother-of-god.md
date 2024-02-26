@@ -12,7 +12,7 @@ tags:
 
 In 1539, Our Blessed Mother appeared to a shepherdess on Mt. Skalnica, now called the Holy Mountain (Sveta Gora), and instructed her: "Tell the people, let them build me a house here and ask me for mercy." The shepherdess was imprisoned by the unbelieving secular authorities several times, but was always miraculously rescued.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://svetagora.si/)
 

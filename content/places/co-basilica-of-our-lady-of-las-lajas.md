@@ -18,7 +18,7 @@ In the image, the Madonna presents a rosary to St. Dominic, keeling at her right
 
 Testing has shown the image to be of indeterminate origin. Geologists from Germany bored core samples from several spots in the image.  There is no paint, no dye, nor any other pigment on the surface of the rock.  The colors are the colors of the rock itself and run uniformly to a depth of several feet.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.laslajas.org/)
 

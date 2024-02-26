@@ -17,7 +17,7 @@ The seventh of 17 communities founded by St. Teresa of Avila in 1578.  Its seclu
 
 The monastery accepts pilgrims looking for a contemplative retreat.  Guests are invited to participate in community prayers.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://monasteriodelasbatuecas.wordpress.com/)
 

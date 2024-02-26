@@ -12,7 +12,7 @@ tags:
 
 According to tradition, there have been multiple apparitions of the Blessed Virgin Mary at Velankanni, also known as Our Lady of Good Health.  As tradition would have it, the first of many apparitions occured to a young boy who was delivering buttermilk.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.velankannichurch.com/)
 

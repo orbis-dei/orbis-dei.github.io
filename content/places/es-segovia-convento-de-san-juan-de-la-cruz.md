@@ -18,7 +18,7 @@ St. John of the Cross founded the convent in 1588 and led the community as prior
 
 Although no longer an active monastery, the site serves as a sanctuary for spiritual exercises.  Pope St. John Paul II visited the site in 1982.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://sanjuandelacruzsegovia.com/)
 

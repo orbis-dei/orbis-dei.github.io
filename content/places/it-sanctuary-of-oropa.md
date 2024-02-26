@@ -17,7 +17,7 @@ Bl. Pier Giorgio Frassati would also hike in this area.  His family villa was ne
 
 ![Santuario di Oropa](https://www.santuariodioropa.it/wp-content/uploads/2022/05/panoramica-oropa-foto-Tracanna-1024x576.jpg)
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.santuariodioropa.it/en/)
 

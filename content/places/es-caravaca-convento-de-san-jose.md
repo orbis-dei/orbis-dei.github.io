@@ -16,7 +16,7 @@ tags:
 
 The twelvth of 17 communities founded by St. Teresa of Avila, in 1576.
 
-#### Source Material
+#### More Information
 
 * [Caravaca tourism site](https://www.turismocaravaca.com/blog/church-and-convent-san-jose-of-madres-carmelitas/)
 * [Article from Murcia Today](https://murciatoday.com/the-convent_church-of-san-jose-in-caravaca-de-la-cruz_34175-a.html)

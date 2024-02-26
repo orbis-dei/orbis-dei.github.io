@@ -12,7 +12,7 @@ tags:
 
 Sister Agnes Sasagawa received visions of an angel and messages emanating from a wooden statue of Our Lady which wept 101 times, including one instance which was broadcast on Japanese national television in December 1973.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.seitaihoshikai.com/)
 

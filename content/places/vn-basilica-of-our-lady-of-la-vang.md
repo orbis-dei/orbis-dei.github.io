@@ -12,7 +12,7 @@ tags:
 
 In 1798, many Christians took refuge in the Vietnamese jungle and prepared themselves for martyrdom.  At night, they often gathered in small groups to pray the rosary.  Unexpectedly, one night they were visited by an apparition of Our Blessed Mother in a long cape, holding a child in her arms, with two angels at her sides.  She comforted them and told them to boil the leaves from the surrounding trees to use as medicine.  She also told them that from that day on, all those who came to this place to pray, would have their prayers heard and answered.  All those who were present witnessed this miracle.
 
-#### Source Material
+#### More Information
 
 | The Real Presence | Miracle Hunter | MaryPages |
 | --- | --- | --- |

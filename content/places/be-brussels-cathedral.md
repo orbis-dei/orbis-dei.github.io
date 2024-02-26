@@ -12,7 +12,7 @@ tags:
 
 National church of Belgium.  St. Gudula's relics were kept here until they were destroyed during the Reformation.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.cathedralisbruxellensis.be/)
 

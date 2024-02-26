@@ -12,7 +12,7 @@ tags:
 
 Historic church in the former Port of Brussels, before the docks were covered over.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.cathedralisbruxellensis.be/)
 

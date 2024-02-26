@@ -15,7 +15,7 @@ tags:
 
 The shrine was dedicated on February 17, 2023 with the Most Rev. Paul S. Coakley, Archbishop of Oklahoma City presiding. The service was attended by 37 bishops, 147 priests, and hundreds of other religious and pilgrims.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.rothershrine.org/)
 

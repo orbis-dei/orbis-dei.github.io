@@ -15,7 +15,7 @@ tags:
 
 Church in the town of St. John of the Cross's birth
 
-#### Source Material
+#### More Information
 
 * [Castila y Leon tourism site](https://www.turismocastillayleon.com/en/art-culture-heritage/monuments/churches-chapels/church-san-juan-de-la-cruz-house-natal)
 

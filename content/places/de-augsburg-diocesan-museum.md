@@ -15,7 +15,7 @@ tags:
 
 Museum of the Diocese of Augsburg, featuring vestments and other items owned by St. Ulrich.  Also presents history of Sts. Afra and Simpert, also of the Diocese of Augsburg.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.museum-st-afra.de/en/)
 

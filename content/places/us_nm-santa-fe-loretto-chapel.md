@@ -15,7 +15,7 @@ tags:
 
 According to tradition, when the architect failed to provide a way to get to the new choir loft, the architecturally-impressive spiral staircase was built by St. Joseph himself.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.lorettochapel.com)
 * [Story of the staircase on the podcast *That's the Word*](https://thunderrock.org/story-extras/the-spiral-architect)

@@ -14,7 +14,7 @@ tags:
 
 Founded and staffed by the Vincentians, who also staffed Trinity College/Dallas University across the street.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://htccd.org/)
 * [Parish history](https://htccd.org/history)

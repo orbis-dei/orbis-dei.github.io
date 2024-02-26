@@ -17,7 +17,7 @@ The church was first served by Vincentians, who staffed Holy Trinity, then by th
 
 St. Ann's school was located next to the church, and the building still stands today, containing a restaurant and a Japanese samaurai collection.
 
-#### Source Material
+#### More Information
 
 * [St. Ann preservation application](https://dallascityhall.com/departments/sustainabledevelopment/historicpreservation/HP%20Documents/Landmark%20Structures/St.%20Anns%20School%20Landmark%20Nomination.pdf) (including section on the church's history)
 * [About St. Ann restauraunt](https://www.saintanndallas.com/restaurant)

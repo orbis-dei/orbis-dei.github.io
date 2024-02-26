@@ -17,7 +17,7 @@ From 1977 to 2007, the buildings were used for St. Andrew Kim Korean parish, unt
 
 This church is currently not in the possession of the Diocese of Dallas.
 
-#### Source Material
+#### More Information
 
 * [Historical site nomination form](https://dallascityhall.com/departments/sustainabledevelopment/historicpreservation/HP%20Documents/Landmark%20Structures/St%20Josephs%20Catholic%20Church%20Landmark%20Nomination.pdf)
 * [Historical site page](https://dallascityhall.com/departments/sustainabledevelopment/historicpreservation/Pages/St-Josephs-Catholic-Church-.aspx)

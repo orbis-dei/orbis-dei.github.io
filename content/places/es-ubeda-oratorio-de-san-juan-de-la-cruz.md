@@ -15,7 +15,7 @@ tags:
 
 In 1591, St. John of the Cross died here, the site of a former monastery.  Today, there is a chapel housing his relics (a hand and leg) and a museum related to his life.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.sanjuandelacruzubeda.com/)
 

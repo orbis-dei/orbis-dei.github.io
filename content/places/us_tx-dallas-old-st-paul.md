@@ -15,7 +15,7 @@ Original site of St. Paul Sanitarium.  The hospital moved to its present locatio
 
 ![St. Paul Sanitarium](https://cityofdallaspreservation.files.wordpress.com/2020/04/st.-pauls-aerial.jpg)
 
-#### Source Material
+#### More Information
 
 * [History of St. Paul Sanitarium](https://cityofdallaspreservation.wordpress.com/2020/04/01/st-pauls-sanitarium-in-dallas-tx/)
 * [UT Southwestern pamphlet on St. Paul's history](https://www.utsouthwestern.edu/edumedia/edufiles/about_us/Giving/st-paul-mag-2015.pdf)

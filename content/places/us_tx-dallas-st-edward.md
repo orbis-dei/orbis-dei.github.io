@@ -15,7 +15,7 @@ Founded by the Rt. Rev. Edward Joseph Dunne, bishop of Dallas, on Oct. 13, 1903,
 
 The founding pastor was the Rev. Joseph P. Lynch, who had been a priest for just 3 years.  Within a few years he would become bishop of Dallas.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://stedwardparish.org/)
 * [Parish history](https://stedwardparish.org/history-)

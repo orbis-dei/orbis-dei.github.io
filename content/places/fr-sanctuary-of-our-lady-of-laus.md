@@ -14,7 +14,7 @@ tags:
 
 Benoite Rencurel, a poor shepherdess, received apparitions from the Virgin Mary from 1664 until her death in 1718.  During the apparitions, the Blessed Mother asked for a church and a house for priests to be built, with the intent of drawing people to greater conversion, especially through the sacrament of penance.  The holy site now draws 120,000 pilgrims annually, and is associated with numerous physical healings.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.sanctuaire-notredamedulaus.com/)
 

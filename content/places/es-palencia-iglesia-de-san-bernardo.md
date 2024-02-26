@@ -15,7 +15,7 @@ tags:
 
 The fourteenth of 17 communities founded by St. Teresa of Avila, in 1580.  It is likely the original convent is no longer in existence, though a church remains.
 
-#### Source Material
+#### More Information
 
 * [Palencia tourism site](https://turismo.aytopalencia.es/en/poi/church-san-bernardo)
 

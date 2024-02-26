@@ -16,7 +16,7 @@ tags:
 
 This 17th-century church, run by the Discalced Carmelites, marks the spot where St Teresa of Avila is believed to have been born. The church houses a museum dedicated to her life and works.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.teresadejesus.com/)
 

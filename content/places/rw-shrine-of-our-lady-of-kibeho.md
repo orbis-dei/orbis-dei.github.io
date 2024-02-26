@@ -12,7 +12,7 @@ tags:
 
 Between 1981 and 1989, the Virgin Mary appeared to several girls in Rwanda.  She appeared to them with the name "Nyina wa Jambo" ("Mother of the Word"), synonymous with "Umubyeyl W'iamna" ("Mother of God").  Mary emphasized the call to pray the rosary and asked for penance and fasting.  The three girls reported a vision foreshadowing the Rwandan Genocide which would occur just 13 years later, which would claim one of their lives.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://kibeho-sanctuary.com/)
 

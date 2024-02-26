@@ -15,7 +15,7 @@ tags:
 
 In December 1531, the Virgin Mary appeared to St. Juan Diego and his uncle.  The miraculous image imprinted on Juan Diego's tilma is on display at the Basilica of Our Lady of Guadalupe, which is the most-visited Catholic shrine in the world.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://virgendeguadalupe.org.mx/)
 

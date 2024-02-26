@@ -15,7 +15,7 @@ tags:
 
 Bl. Stanley Rother was accepted as a seminarian and began his studies at Assumption Seminary.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://assumptionseminary.org/)
 

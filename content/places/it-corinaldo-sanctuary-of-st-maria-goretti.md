@@ -14,7 +14,7 @@ tags:
 
 This church is the final resting place for St. Maria Goretti's mother, Assunta, and her repentant murderer, Alessandro Serenelli.  There is also a relic of Maria's arm here.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.santamariagoretti.it/home/)
 

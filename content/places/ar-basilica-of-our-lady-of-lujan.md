@@ -12,7 +12,7 @@ tags:
 
 In 1630, a statue of the Immaculate Conception was being transported inland when its couriers overnighted near the Lujan River.  The following morning, the wagon become unexplainably heavy and immovable until the statue was unloaded.  Interpreting this as a sign, the patron and drivers left the statue there, where a chapel was built for pilgrims.  Over time and with many healings, Lujan has become one of the most frequented pilgrimage destinations in the world.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://santuariodelujan.org.ar/)
 

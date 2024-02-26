@@ -12,7 +12,7 @@ tags:
 
 One summer day, in 1608, a number of children were playing while tending their sheep in a field on the outskirts of the village of Siluva.  They beheld a beautiful young woman standing on the rock holding a baby in her arms and weeping bitterly.  The town which had lost its Catholic identity to the Calvinists over the course of 80 years was restored to the Faith.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://siluva.lt/)
 

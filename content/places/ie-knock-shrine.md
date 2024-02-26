@@ -12,7 +12,7 @@ tags:
 
 In 1879, 15 individuals witnessed the figures of Mary, Joseph, John the Evangelist, and a lamb and cross atop an altar, all enveloped in a bright light outside the local church.  The imagery is unique to Knock and holds eschatological significance for Catholics.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://www.knockshrine.ie/)
 

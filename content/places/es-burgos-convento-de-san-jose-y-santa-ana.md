@@ -16,7 +16,7 @@ tags:
 
 The last of 17 communities founded by St. Teresa of Avila, in 1582.
 
-#### Source Material
+#### More Information
 
 * [Burgos tourism site](https://turismo.aytoburgos.es/cultura-y-patrimonio1/-/asset_publisher/PMC541iCzJ73/content/convento-de-san-jos%25C3%25A9-y-santa-ana) (note: website not active at time of writing)
 

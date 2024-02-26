@@ -16,7 +16,7 @@ tags:
 
 This basilica is built on traditional burial site of Saint Vincent, a young deacon martyred for his faith in the 4th century under the reign of Diocletian.  The church houses his relics and those of fellow martyrs Sts. Sabina and Cristeta.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://basilicasanvicente.es/)
 

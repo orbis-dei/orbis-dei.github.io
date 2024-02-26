@@ -14,7 +14,7 @@ tags:
 
 In 1578, a pious woodcutter named Tomasz Michalek saw a bright light in the forest.  The Virgin asked him to alert the authorities to build a church.  Thomas, scared, did nothing.  The Virgin appeared again, asking him to take action and ending his silence.  Thomas approached the authorities but was not believed.  Under a subsequent priest, a small chapel was built, then a larger shrine in 1606.  Today the shrine is part of a larger Bernardine monastery, and contains the image of Our Lady of Consolation.
 
-#### Source Material
+#### More Information
 
 * [Official site](https://lezajsk.bernardyni.pl/)
 

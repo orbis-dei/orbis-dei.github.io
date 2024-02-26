@@ -12,7 +12,7 @@ tags:
 
 _Research in progress_
 
-#### Source Material
+#### More Information
 
 | The Real Presence | Miracle Hunter | MaryPages |
 | --- | --- | --- |
