@@ -9,6 +9,7 @@ tags:
 - holy-persons
 - teresa-avila
 - discalced-carmelites
+- communities
 
 ---
 

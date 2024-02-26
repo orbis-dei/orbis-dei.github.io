@@ -6,6 +6,7 @@ tags:
 - spain
 - avila
 - churches
+- holy-persons
 - vincent
 - sabina
 - cristeta

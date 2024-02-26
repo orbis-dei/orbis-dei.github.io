@@ -11,11 +11,14 @@ tags:
 - discalced-carmelites
 - communities
 - conceptionists
+- john-cross
 
 ---
 
 
-The sixth of 17 communities founded by St. Teresa of Avila, in 1569.  In 1836 the convent was confiscated by the Spanish government, but in 1855 was reoccupied by Conceptionist Franciscan nuns.  Today it serves as a Conceptionist convent and Teresan museum.
+The sixth of 17 communities founded by St. Teresa of Avila, in 1569.  St. John of the Cross wrote his *Dark Night of the Soul* and *Ascent of Mount Carmel.* here.
+
+In 1836 the convent was confiscated by the Spanish government, but in 1855 was reoccupied by Conceptionist Franciscan nuns.  Today it serves as a Conceptionist convent and Teresan museum.
 
 #### Source Material
 

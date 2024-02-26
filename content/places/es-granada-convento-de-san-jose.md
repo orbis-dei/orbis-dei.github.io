@@ -8,9 +8,9 @@ tags:
 - churches
 - holy-persons
 - teresa-avila
-- john-cross
 - discalced-carmelites
 - communities
+- john-cross
 
 ---
 

@@ -8,13 +8,16 @@ tags:
 - churches
 - holy-persons
 - teresa-avila
-- john-cross
 - discalced-carmelites
+- communities
+- john-cross
 
 ---
 
 
-Founded in 1478, this Carmelite convent in Ávila was where Saint Teresa entered as a young woman and lived for 27 years. She took her vows here and began her journey as a mystic and reformer. The monastery features her cell, the Chapel of Transverberation, a museum dedicated to her life, and a drawing of Christ on the Cross by St. John of the Cross.
+Founded in 1478, this Carmelite convent in Avila was where Saint Teresa entered as a young woman and lived for 27 years. She took her vows here and began her journey as a mystic and reformer. The monastery features her cell, the Chapel of Transverberation and a museum dedicated to her life.
+
+St. John of the Cross spent notable amounts of time here as well, and during one session of prayer, received a vision of Christ on the Cross from "above."  The saint's drawing remains at the museum.
 
 #### Source Material
 
