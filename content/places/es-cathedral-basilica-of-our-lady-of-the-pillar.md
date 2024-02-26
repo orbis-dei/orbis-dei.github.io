@@ -6,6 +6,7 @@ tags:
 - spain
 - churches
 - marian-sites
+- holy-persons
 - james-greater
 
 ---

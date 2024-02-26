@@ -6,6 +6,7 @@ tags:
 - france
 - churches
 - marian-sites
+- holy-persons
 - bernadette-soubirous
 
 ---

@@ -6,6 +6,7 @@ tags:
 - portugal
 - churches
 - marian-sites
+- holy-persons
 - lucia-dos-santos
 - francisco-and-jacinta-marto
 

@@ -7,6 +7,7 @@ tags:
 - mexico-city
 - churches
 - marian-sites
+- holy-persons
 - juan-diego
 
 ---
