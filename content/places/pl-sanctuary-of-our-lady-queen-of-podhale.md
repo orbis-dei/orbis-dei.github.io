@@ -2,13 +2,14 @@
 title: "Sanctuary of Our Lady Queen of Podhale"
 location: {lat: 49.4651296551083, lng: 19.9828430570051}
 level: global
-
 tags:
-- marian-sites
-- churches
 - poland
+- churches
+- marian-sites
 - john-paul-ii
+
 ---
+
 
 This church was originally founded in the 13th century by Cistercians from France.  According to legend, around the year 1400, a merchant lost in the nearby swamps was led to the church by a figure he discerned to be Mary.  Out of gratitude, he commissioned a statue which can be found in the church today.
 
@@ -16,12 +17,21 @@ A regular visitor to the shrine was Karol Wojtyla, the future Pope St. John Paul
 
 #### Source Material
 
-| Official Site | The Real Presence | Miracle Hunter | MaryPages |
-| --- | --- | --- | --- |
-| [Link](ps://www.mbludzm.pl/) | | | |
+* [Official site](ps://www.mbludzm.pl/)
+
+
+| The Real Presence | Miracle Hunter | MaryPages |
+| --- | --- | --- |
+
+
+
 
 #### Author's Note
 
 Some good information on [Catholic Shrine Basilica](https://catholicshrinebasilica.com/sanctuary-of-our-lady-of-ludzmierz-poland/).
 
 -JMM
+
+
+
+

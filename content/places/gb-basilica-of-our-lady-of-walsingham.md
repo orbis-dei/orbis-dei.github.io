@@ -2,12 +2,13 @@
 title: "Catholic National Shrine and Basilica of Our Lady of Walsingham"
 location: {lat: 52.8805595538228, lng: 0.852760715341141}
 level: global
-
 tags:
-- marian-sites
-- churches
 - uk
+- churches
+- marian-sites
+
 ---
+
 
 In 1061, Our Lady appeared to Richeldis de Faverches, a Catholic English noblewoman in the village of Walsingham in Norfolk, England.
 
@@ -15,8 +16,14 @@ Our Lady of Walsingham presented her with the plans of the Holy House of the Hol
 
 #### Source Material
 
-| Official Site | The Real Presence | Miracle Hunter | MaryPages |
-| --- | --- | --- | --- |
-| [Link](https://www.walsingham.org.uk/) | [Link](http://www.therealpresence.org/eucharst/misc/BVM/153_WALSINGHAM_60x96.pdf) | [Link](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/walsingham/index.html) | [Link](https://www.marypages.com/our-lady-of-walsingham-en.html) |
+* [Official site](https://www.walsingham.org.uk/)
+
+
+| The Real Presence | Miracle Hunter | MaryPages |
+| --- | --- | --- |
+| [Link](http://www.therealpresence.org/eucharst/misc/BVM/153_WALSINGHAM_60x96.pdf) | [Link](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/walsingham/index.html) | [Link](https://www.marypages.com/our-lady-of-walsingham-en.html) |
+
+
+
 
 
