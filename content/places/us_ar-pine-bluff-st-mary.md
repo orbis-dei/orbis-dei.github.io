@@ -18,7 +18,7 @@ Oldest Catholic church in Arkansas, originally built on a barge in the Arkansas 
 #### Source Material
 
 * [Official site](https://www.stjosephpinebluff.org/st-mary-catholic-church.html) (now under the care of nearby St. Joseph Parish)
-* [American Catholic History podcast episode on St. Mary](https://americancatholichistory.org/old-st-mary-pine-bluff-arkansas/)
+* [*American Catholic History* podcast episode on St. Mary](https://americancatholichistory.org/old-st-mary-pine-bluff-arkansas/)
 
 
 

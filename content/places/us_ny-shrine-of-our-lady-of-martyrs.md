@@ -23,7 +23,7 @@ Built on the site of the Mohawk village of Ossernenon, where Sts. Isaac Jogues, 
 
 * [Official site](https://www.ourladyofmartyrsshrine.org/)
 * [Article from Catholic World Report](https://www.catholicworldreport.com/2023/04/07/visiting-el-santuario-de-chimayo-the-most-popular-pilgrimage-site-in-america/)
-* [Story of the shrine on the podcast _That's the Word_](https://thunderrock.org/story-extras/take-the-hint)
+* [Story of the shrine on the podcast *That's the Word*](https://thunderrock.org/story-extras/take-the-hint)
 
 
 

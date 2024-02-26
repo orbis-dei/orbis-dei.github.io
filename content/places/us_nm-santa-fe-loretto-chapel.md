@@ -18,7 +18,7 @@ According to tradition, when the architect failed to provide a way to get to the
 #### Source Material
 
 * [Official site](https://www.lorettochapel.com)
-* [Story of the staircase on the podcast _That's the Word_](https://thunderrock.org/story-extras/the-spiral-architect)
+* [Story of the staircase on the podcast *That's the Word*](https://thunderrock.org/story-extras/the-spiral-architect)
 
 
 
