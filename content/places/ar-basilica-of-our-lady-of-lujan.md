@@ -17,8 +17,6 @@ In 1630, a statue of the Immaculate Conception was being transported inland when
 * [Official site](https://santuariodelujan.org.ar/)
 
 
-##### Further Reading for Marian Sites
-
 | The Real Presence | Miracle Hunter | MaryPages |
 | --- | --- | --- |
 | [Link](http://www.therealpresence.org/eucharst/misc/BVM/112_LUJAN_96x96.pdf) | [Link](http://www.miraclehunter.com/miraculous_images/icons_1600-1699.html) (Search "Lujan") |  |
