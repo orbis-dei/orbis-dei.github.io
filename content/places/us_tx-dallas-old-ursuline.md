@@ -6,6 +6,7 @@ tags:
 - usa
 - texas
 - dallas
+- closed
 
 ---
 
