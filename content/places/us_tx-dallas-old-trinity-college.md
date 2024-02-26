@@ -1,12 +1,14 @@
 ---
-title: "Original Site of Trinity College / Dallas University / Jesuit Dallas"
-location: {lat: 32.814343, lng: -96.8018151,}
+title: "Old Trinity College / Dallas University / Jesuit Dallas"
+location: {lat: 32.814343, lng: -96.8018151}
 level: local
 tags:
-- closed
-- dallas-tx
 - usa
+- texas
+- dallas
+
 ---
+
 
 Original site of Holy Trinity College, the Vincentian college.  The school was later renamed to Dallas University/University of Dallas.  The school closed in 1929 and its charter was reused for the current University of Dlalas.
 
@@ -16,5 +18,11 @@ The building later housed Jesuit Prepatory School until it moved next to St. Rit
 
 ![Dallas University](https://flashbackdallas.files.wordpress.com/2016/05/jesuit_legacies_fall-2005.jpg)
 
-[School in the 1922 Sanborn map](https://maps.lib.utexas.edu/maps/sanborn/d-f/txu-sanborn-dallas-1921-287.jpg)
+#### Source Material
+
+* [School in the 1922 Sanborn map](https://maps.lib.utexas.edu/maps/sanborn/d-f/txu-sanborn-dallas-1921-287.jpg)
+
+
+
+
 
