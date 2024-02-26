@@ -4,7 +4,7 @@ location: {lat: 48.3726562248586, lng: 10.8969802045589}
 level: local
 tags:
 - germany
-- augsberg
+- augsburg
 - churches
 - holy-persons
 - peter-canisius
