@@ -4,7 +4,7 @@ location: {lat: 48.3691926319073, lng: 10.8982826487021}
 level: global
 tags:
 - germany
-- augsberg
+- augsburg
 - churches
 - marian-sites
 
