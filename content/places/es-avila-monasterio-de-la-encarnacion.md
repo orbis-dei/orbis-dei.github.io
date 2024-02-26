@@ -1,6 +1,6 @@
 ---
 title: "Monastery of the Incarnation (Monasterio de La Encarnacion)"
-location: {lat: 40.6628280445414, lng: 4.6997760138996}
+location: {lat: 40.6628280445414, lng: -4.6997760138996}
 level: local
 tags:
 - spain
