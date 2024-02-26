@@ -1,14 +1,17 @@
 ---
-title: "Iglesia Santiago Apostol, Santiago Atitlán, Guatemala"
+title: "Church of St. James the Apostle (Iglesia Santiago Apostol)"
 location: {lat: 14.638171, lng: -91.229103}
 level: regional
 tags:
-- stanley-rother
-- holy-persons
-- churches
 - guatemala
+- atitlan
+- churches
+- holy-persons
+- stanley-rother
+
 ---
 
-In English, St. James the Apostle Church.
 
 Bl. Stanley Rother ministered to the native Tz'utujil people of Guatemala for years at St. James the Apostle church, on the shores of Lake Atitlan.  He was martyred in the rectory on July 28, 1981.
+
+
