@@ -9,6 +9,7 @@ tags:
 - holy-persons
 - vincent-de-paul
 - jean-gabriel-perboyre
+- vincentians
 
 ---
 
