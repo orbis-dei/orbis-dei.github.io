@@ -1,5 +1,5 @@
 ---
-title: "Convent of the Anunciation in Alba de Tormes (Convento de La Anunciacion)"
+title: "Convent of the Anunciation (Convento de La Anunciacion), Alba de Tormes"
 location: {lat: 40.8265328359173, lng: -5.51440563553813}
 level: regional
 tags:
