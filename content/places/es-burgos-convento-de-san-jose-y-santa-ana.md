@@ -1,5 +1,5 @@
 ---
-title: "Convento de San Jose y Santa Ana"
+title: "Convento de San Jose y Santa Ana, Burgos"
 location: {lat: 42.340120675583, lng: -3.6942737}
 level: local
 tags:
