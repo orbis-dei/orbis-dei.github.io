@@ -11,7 +11,7 @@ __Bolded__ individuals have more in-depth pages.
 * [St. Catherine Labouré]({{< ref "/tags/catherine-laboure" >}})
 * [Sts. Francisco and Jacinta Marto]({{< ref "/tags/francisco-and-jacinta-marto" >}})
 * [St. Isaac Jogues]({{< ref "/tags/isaac-jogues" >}})
-* [St. John Lalande]({{< ref "/tags/john-lalande" >}})
+* [St. John Lalande]({{< ref "/tags/jean-de-lalande" >}})
 * [St. Joseph]({{< ref "/tags/joseph" >}})
 * [St. Juan Diego]({{< ref "/tags/juan-diego" >}})
 * [St. Kateri Tekakwitha]({{< ref "/tags/kateri-tekakwitha" >}})

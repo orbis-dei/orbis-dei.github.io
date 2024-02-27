@@ -4,6 +4,6 @@ We invite you to grow in faith by visiting and praying at places near and far.  
 
 * [Marian Sites](/tags/marian-sites), including Marian Apparitions around the world
 * The life of [Bl. Stanley Rother](/tags/stanley-rother)
-* [Site of Fr. Miguel Pro's Martyrdom](/places/hp-miguel-pro-martyrdom-site-cdmx/)
+* [Site of Fr. Miguel Pro's Martyrdom](/places/mx-mexico-city-miguel-pro-martyrdom-site/)
 
 See a site you'd like to add?  Please [contact us](/contact).
