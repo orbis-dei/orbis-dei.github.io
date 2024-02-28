@@ -7,7 +7,6 @@ tags:
 - churches
 - marian-sites
 - communities
-- john-paul-ii
 
 ---
 
