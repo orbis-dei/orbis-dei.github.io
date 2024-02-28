@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - fremont
+- churches
 - holy-persons
 - california-missions
 - franciscans

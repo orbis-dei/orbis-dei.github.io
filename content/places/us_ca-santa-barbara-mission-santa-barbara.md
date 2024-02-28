@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - santa-barbara
+- churches
 - holy-persons
 - california-missions
 - franciscans

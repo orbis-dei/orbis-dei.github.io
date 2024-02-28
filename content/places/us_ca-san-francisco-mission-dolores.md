@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - san-francisco
+- churches
 - holy-persons
 - california-missions
 - franciscans

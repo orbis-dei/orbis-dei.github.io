@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - ventura
+- churches
 - holy-persons
 - california-missions
 - franciscans

@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - oceanside
+- churches
 - holy-persons
 - california-missions
 - franciscans

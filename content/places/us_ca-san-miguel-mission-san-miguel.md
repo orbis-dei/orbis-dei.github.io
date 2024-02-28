@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - san-miguel
+- churches
 - holy-persons
 - california-missions
 - franciscans

@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - solvang
+- churches
 - holy-persons
 - california-missions
 - franciscans

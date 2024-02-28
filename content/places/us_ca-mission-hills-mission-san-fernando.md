@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - mission-hills
+- churches
 - holy-persons
 - california-missions
 - franciscans

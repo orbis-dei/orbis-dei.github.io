@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - soledad
+- churches
 - holy-persons
 - california-missions
 - franciscans

@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - santa-cruz
+- churches
 - holy-persons
 - california-missions
 - franciscans

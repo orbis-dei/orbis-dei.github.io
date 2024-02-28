@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - jolon
+- churches
 - holy-persons
 - california-missions
 - franciscans

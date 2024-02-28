@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - san-rafael
+- churches
 - holy-persons
 - california-missions
 - franciscans

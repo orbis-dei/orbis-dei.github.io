@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - san-luis-obispo
+- churches
 - holy-persons
 - california-missions
 - franciscans

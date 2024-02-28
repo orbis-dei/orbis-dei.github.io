@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - san-diego
+- churches
 - holy-persons
 - california-missions
 - franciscans

@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - san-juan-capistrano
+- churches
 - holy-persons
 - california-missions
 - franciscans

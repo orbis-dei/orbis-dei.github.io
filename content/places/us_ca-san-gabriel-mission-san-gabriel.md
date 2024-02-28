@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - san-gabriel
+- churches
 - holy-persons
 - california-missions
 - franciscans

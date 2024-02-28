@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - santa-clara
+- churches
 - holy-persons
 - california-missions
 - franciscans

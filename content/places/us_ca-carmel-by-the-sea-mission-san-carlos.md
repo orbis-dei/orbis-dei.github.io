@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - carmel-by-the-sea
+- churches
 - holy-persons
 - california-missions
 - franciscans

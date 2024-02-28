@@ -6,6 +6,7 @@ tags:
 - usa
 - california
 - san-juan-bautista
+- churches
 - holy-persons
 - california-missions
 - franciscans
