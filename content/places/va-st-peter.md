@@ -11,7 +11,7 @@ tags:
 ---
 
 
-Possibly the most famous church in the world, and one of the four papal basilicas.  The current basilica was built between 1506 and 1626, replacing the original basilica from the time of Constantine.
+Possibly the most famous church in the world, and one of the four papal basilicas, the current building was built between 1506 and 1626, replacing the original from the time of Constantine in the 4th century.
 
 St. Peter's tomb lies beneath the high altar of the basilica, and the church continues to be a place of interment for popes, cardinals and bishops.
 

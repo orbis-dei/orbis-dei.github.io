@@ -5,6 +5,7 @@ level: local
 tags:
 - turkey
 - ephesus
+- closed
 
 ---
 
