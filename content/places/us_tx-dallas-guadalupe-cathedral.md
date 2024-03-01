@@ -26,7 +26,7 @@ In 2023 the cathedral was elevated to a National Shrine by the US Conference fo 
 
 The original altarpiece appears to be lost forever.  It was removed in the 1960's by the Carmelite fathers who staffed the parish at the time.  The official story is that it was so badly damaged by termites that it had to be trashed.  Some say that it wasn't eaten by termites, but by Carmelites.
 
-- JPY
+-JPY
 
 
 

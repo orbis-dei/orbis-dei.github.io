@@ -38,11 +38,9 @@ The church contains a statue called Our Lady of Grace, which may be the original
 
 On the basilica grounds, to the left of the main nave is a gift shop.  The people there can help you get to St. Maria Goretti's home in La Ferriere.
 
--JPY
-
 The statue is credited with at least one historic miracle by St. Thomas More, but details are lacking; Miracle Hunter's page references the associated [Wikipedia article](https://en.wikipedia.org/wiki/Our_Lady_of_Ipswich).
 
--JMM
+-JPY, JMM
 
 
 

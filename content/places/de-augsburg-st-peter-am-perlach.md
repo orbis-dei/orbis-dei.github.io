@@ -29,7 +29,7 @@ Home of the image Our Lady Undoer of Knots.
 
 Pope Francis has a special devotion to this image, explained in the Miracle Hunter link.
 
--JPY
+-JMM
 
 
 
