@@ -1,7 +1,7 @@
 ---
 title: "Sanctuary of Oropa (Black Madonna of Oropa)"
 location: {lat: 45.6258893442062, lng: 7.98237638465537}
-level: regional
+interest: regional
 tags:
 - italy
 - churches

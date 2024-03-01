@@ -1,7 +1,7 @@
 ---
 title: "Goretti House"
 location: {lat: 41.5161008, lng: 12.7567}
-level: regional
+interest: regional
 tags:
 - italy
 - la-ferriere

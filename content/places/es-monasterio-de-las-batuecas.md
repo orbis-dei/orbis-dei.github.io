@@ -1,7 +1,7 @@
 ---
 title: "Monasterio de las Batuecas"
 location: {lat: 40.4611684740194, lng: -6.14685648465537}
-level: local
+interest: local
 tags:
 - spain
 - churches

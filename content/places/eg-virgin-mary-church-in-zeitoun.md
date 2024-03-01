@@ -1,7 +1,7 @@
 ---
 title: "Virgin Mary Church in Zeitoun (Our Lady of Zeitoun, Our Lady of Light)"
 location: {lat: 30.1046229269409, lng: 31.3155447438101}
-level: global
+interest: global
 tags:
 - egypt
 - churches

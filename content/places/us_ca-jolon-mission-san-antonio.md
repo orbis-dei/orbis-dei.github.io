@@ -1,7 +1,7 @@
 ---
 title: "Mission San Antonio de Padua"
 location: {lat: 36.0153800162529, lng: -121.250314673798}
-level: local
+interest: local
 tags:
 - usa
 - california

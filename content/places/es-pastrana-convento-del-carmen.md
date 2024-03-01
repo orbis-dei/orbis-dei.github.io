@@ -1,7 +1,7 @@
 ---
 title: "Convento del Carmen, Pastrana"
 location: {lat: 40.4050876865406, lng: -2.91725329352686}
-level: local
+interest: local
 tags:
 - spain
 - pastrana

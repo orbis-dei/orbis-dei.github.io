@@ -1,7 +1,7 @@
 ---
 title: "Cathedral of Our Lady of Puy"
 location: {lat: 45.0456296446269, lng: 3.88463383893332}
-level: global
+interest: global
 tags:
 - france
 - churches

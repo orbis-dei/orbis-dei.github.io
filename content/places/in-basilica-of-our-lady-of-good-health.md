@@ -1,7 +1,7 @@
 ---
 title: "Basilica of Our Lady of Good Health (Our Lady of Velankanni)"
 location: {lat: 10.6803068, lng: 79.8493137}
-level: global
+interest: global
 tags:
 - india
 - churches

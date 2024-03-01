@@ -1,7 +1,7 @@
 ---
 title: "St. Catherine's Church"
 location: {lat: 50.8506899525108, lng: 4.34804927612854}
-level: local
+interest: local
 tags:
 - belgium
 - brussels

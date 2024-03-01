@@ -1,7 +1,7 @@
 ---
 title: "Statue of St. Maria Goretti"
 location: {lat: 41.45725, lng: 12.65585}
-level: local
+interest: local
 tags:
 - italy
 - nettuno

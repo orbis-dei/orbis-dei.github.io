@@ -1,7 +1,7 @@
 ---
 title: "Mount St. Mary's Seminary"
 location: {lat: 39.679924, lng: -77.356056}
-level: local
+interest: local
 tags:
 - usa
 - maryland

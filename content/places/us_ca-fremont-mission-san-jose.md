@@ -1,7 +1,7 @@
 ---
 title: "Mission San Jose"
 location: {lat: 37.5334036374493, lng: -121.919695300919}
-level: local
+interest: local
 tags:
 - usa
 - california

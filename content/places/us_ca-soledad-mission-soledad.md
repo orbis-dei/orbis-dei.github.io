@@ -1,7 +1,7 @@
 ---
 title: "Mission Nuestra Senora de la Soledad (Mission Soledad)"
 location: {lat: 36.4048390825981, lng: -121.355761573787}
-level: local
+interest: local
 tags:
 - usa
 - california

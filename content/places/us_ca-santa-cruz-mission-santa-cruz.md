@@ -1,7 +1,7 @@
 ---
 title: "Mission Santa Cruz"
 location: {lat: 36.9781412595296, lng: -122.029494075624}
-level: local
+interest: local
 tags:
 - usa
 - california

@@ -1,7 +1,7 @@
 ---
 title: "Mission San Buenaventura"
 location: {lat: 34.281052108005, lng: -119.298020331519}
-level: local
+interest: local
 tags:
 - usa
 - california

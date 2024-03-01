@@ -1,7 +1,7 @@
 ---
 title: "Monasterio de San Jose del Salvador, Beas"
 location: {lat: 38.2510429491708, lng: -2.88706618465537}
-level: local
+interest: local
 tags:
 - spain
 - beas-de-segura

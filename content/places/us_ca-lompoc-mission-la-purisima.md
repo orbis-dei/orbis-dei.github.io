@@ -1,7 +1,7 @@
 ---
 title: "Mission La Purisima Concepcion"
 location: {lat: 34.6697435013219, lng: -120.420619002672}
-level: local
+interest: local
 tags:
 - usa
 - california

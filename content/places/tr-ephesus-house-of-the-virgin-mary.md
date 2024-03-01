@@ -1,7 +1,7 @@
 ---
 title: "House of the Virgin Mary"
 location: {lat: 37.9115960027711, lng: 27.3341418397482}
-level: global
+interest: global
 tags:
 - turkey
 - ephesus

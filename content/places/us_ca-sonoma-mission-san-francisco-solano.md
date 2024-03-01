@@ -1,7 +1,7 @@
 ---
 title: "Mission San Francisco Solano"
 location: {lat: 38.2936930309277, lng: -122.455888502567}
-level: local
+interest: local
 tags:
 - usa
 - california

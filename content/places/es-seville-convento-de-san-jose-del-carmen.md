@@ -1,7 +1,7 @@
 ---
 title: "Convento de San Jose del Carmen (Las Teresas), Seville"
 location: {lat: 37.3858007514651, lng: -5.98899388465537}
-level: local
+interest: local
 tags:
 - spain
 - seville

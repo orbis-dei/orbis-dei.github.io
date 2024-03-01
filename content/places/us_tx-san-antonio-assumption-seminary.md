@@ -1,7 +1,7 @@
 ---
 title: "Assumption Seminary"
 location: {lat: 29.454204, lng: -98.54519}
-level: local
+interest: local
 tags:
 - usa
 - texas

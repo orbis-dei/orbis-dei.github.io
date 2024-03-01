@@ -1,7 +1,7 @@
 ---
 title: "Church of Mary"
 location: {lat: 37.9446059640859, lng: 27.3391947153403}
-level: local
+interest: local
 tags:
 - turkey
 - ephesus

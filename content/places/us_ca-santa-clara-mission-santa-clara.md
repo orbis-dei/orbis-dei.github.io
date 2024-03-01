@@ -1,7 +1,7 @@
 ---
 title: "Mission Santa Clara de Asis"
 location: {lat: 37.3491892853456, lng: -121.941511544924}
-level: local
+interest: local
 tags:
 - usa
 - california

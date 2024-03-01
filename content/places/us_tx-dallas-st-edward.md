@@ -1,7 +1,7 @@
 ---
 title: "St. Edward the Confessor Catholic Church, Dallas, TX"
 location: {lat: 32.788721, lng: -96.7726526}
-level: local
+interest: local
 tags:
 - usa
 - texas

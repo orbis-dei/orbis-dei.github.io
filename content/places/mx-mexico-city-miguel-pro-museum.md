@@ -1,7 +1,7 @@
 ---
 title: "Museum of Bl. Miguel Agustin Pro"
 location: {lat: 19.4224, lng: -99.16095}
-level: regional
+interest: regional
 tags:
 - mexico
 - mexico-city

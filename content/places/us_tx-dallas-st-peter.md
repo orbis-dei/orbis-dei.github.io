@@ -1,7 +1,7 @@
 ---
 title: "St. Peter Catholic Church, Dallas, TX"
 location: {lat: 32.7950372, lng: -96.7950317}
-level: local
+interest: local
 tags:
 - usa
 - texas

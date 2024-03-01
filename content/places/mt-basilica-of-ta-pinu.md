@@ -1,7 +1,7 @@
 ---
 title: "Basilica of the Blessed Virgin of Ta' Pinu"
 location: {lat: 36.0617520264557, lng: 14.2153318855345}
-level: global
+interest: global
 tags:
 - malta
 - churches

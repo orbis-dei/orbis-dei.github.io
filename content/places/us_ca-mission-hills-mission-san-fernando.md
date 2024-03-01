@@ -1,7 +1,7 @@
 ---
 title: "Mission San Fernando Rey de Espana"
 location: {lat: 34.2728717819309, lng: -118.461632373847}
-level: local
+interest: local
 tags:
 - usa
 - california

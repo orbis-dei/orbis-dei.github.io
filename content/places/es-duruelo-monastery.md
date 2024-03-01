@@ -1,7 +1,7 @@
 ---
 title: "Monastery of Duruelo"
 location: {lat: 40.8341063720703, lng: -5.13013812791797}
-level: local
+interest: local
 tags:
 - spain
 - duruelo

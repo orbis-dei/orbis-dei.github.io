@@ -1,7 +1,7 @@
 ---
 title: "Chapel of Our Lady of the Miraculous Medal"
 location: {lat: 48.8507859, lng: 2.3229912}
-level: global
+interest: global
 tags:
 - france
 - paris

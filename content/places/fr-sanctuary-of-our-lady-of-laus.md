@@ -1,7 +1,7 @@
 ---
 title: "Sanctuary of Our Lady of Laus"
 location: {lat: 44.5212016, lng: 6.152116}
-level: global
+interest: global
 tags:
 - france
 - churches

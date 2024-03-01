@@ -1,7 +1,7 @@
 ---
 title: "Mission San Juan Bautista"
 location: {lat: 36.8458910149476, lng: -121.535752689119}
-level: local
+interest: local
 tags:
 - usa
 - california

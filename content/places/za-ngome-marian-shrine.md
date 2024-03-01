@@ -1,7 +1,7 @@
 ---
 title: "Ngome Marian Shrine"
 location: {lat: -27.8553490356507, lng: 31.4537879711647}
-level: global
+interest: global
 tags:
 - south-africa
 - churches

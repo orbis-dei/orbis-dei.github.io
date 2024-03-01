@@ -1,7 +1,7 @@
 ---
 title: "Basilica of Our Lady of Lichen (Holy Mother of Sorrows, Queen of Poland)"
 location: {lat: 52.323705849375, lng: 18.3584325570281}
-level: global
+interest: global
 tags:
 - poland
 - churches

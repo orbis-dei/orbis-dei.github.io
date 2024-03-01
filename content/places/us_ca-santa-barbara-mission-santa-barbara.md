@@ -1,7 +1,7 @@
 ---
 title: "Mission Santa Barbara"
 location: {lat: 34.4382907792083, lng: -119.714078531515}
-level: local
+interest: local
 tags:
 - usa
 - california

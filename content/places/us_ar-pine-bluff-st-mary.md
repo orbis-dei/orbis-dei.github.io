@@ -1,7 +1,7 @@
 ---
 title: "St. Mary Catholic Church, Pine Bluff, AR"
 location: {lat: 34.3246561, lng: -91.9426947}
-level: regional
+interest: regional
 tags:
 - usa
 - arkansas

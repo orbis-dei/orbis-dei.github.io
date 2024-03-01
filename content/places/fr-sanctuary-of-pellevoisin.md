@@ -1,7 +1,7 @@
 ---
 title: "Sanctuary of Pellevoisin"
 location: {lat: 46.9828589876632, lng: 1.4171181142389}
-level: global
+interest: global
 tags:
 - france
 - churches

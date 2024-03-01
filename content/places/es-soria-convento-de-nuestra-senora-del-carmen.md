@@ -1,7 +1,7 @@
 ---
 title: "Convent of our Lady of Carmen (Convento de Nuestra Senora del Carmen), Soria"
 location: {lat: 41.7646254483495, lng: -2.46296793728833}
-level: local
+interest: local
 tags:
 - spain
 - soria

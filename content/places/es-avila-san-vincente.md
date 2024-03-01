@@ -1,7 +1,7 @@
 ---
 title: "Basilica of Sts. Vincent, Sabina and Cristeta (San Vicente de Avila)"
 location: {lat: 40.6579352089861, lng: -4.69603908933598}
-level: regional
+interest: regional
 tags:
 - spain
 - avila

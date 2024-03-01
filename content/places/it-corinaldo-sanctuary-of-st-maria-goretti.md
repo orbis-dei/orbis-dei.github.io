@@ -1,7 +1,7 @@
 ---
 title: "Diocesan Sanctuary of St. Maria Goretti"
 location: {lat: 43.6493065, lng: 13.0472097}
-level: regional
+interest: regional
 tags:
 - italy
 - corinaldo

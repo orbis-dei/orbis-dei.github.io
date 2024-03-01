@@ -1,7 +1,7 @@
 ---
 title: "Jasna Gora Monastery (Our Lady of Czestochowa)"
 location: {lat: 50.8127516192911, lng: 19.0966517482729}
-level: global
+interest: global
 tags:
 - poland
 - churches

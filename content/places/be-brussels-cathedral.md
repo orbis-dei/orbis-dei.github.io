@@ -1,7 +1,7 @@
 ---
 title: "St. Michael and St. Gudula Cathedral (Brussels Cathedral)"
 location: {lat: 50.8478744506604, lng: 4.35897312161425}
-level: regional
+interest: regional
 tags:
 - belgium
 - brussels

@@ -1,7 +1,7 @@
 ---
 title: "Basilica of Our Lady of Charity of El Cobre"
 location: {lat: 20.0507965212156, lng: -75.9489705484828}
-level: global
+interest: global
 tags:
 - cuba
 - churches

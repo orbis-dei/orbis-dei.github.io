@@ -1,7 +1,7 @@
 ---
 title: "Mission San Francisco de Asis (Mission Dolores)"
 location: {lat: 37.7643787904628, lng: -122.426918360256}
-level: local
+interest: local
 tags:
 - usa
 - california

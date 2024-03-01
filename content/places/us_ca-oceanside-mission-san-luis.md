@@ -1,7 +1,7 @@
 ---
 title: "Mission San Luis Rey de Francia"
 location: {lat: 33.2321695508642, lng: -117.319756402711}
-level: local
+interest: local
 tags:
 - usa
 - california

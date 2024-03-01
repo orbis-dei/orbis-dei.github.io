@@ -1,7 +1,7 @@
 ---
 title: "Sanctuary of St. Joseph Vaz"
 location: {lat: 15.3912514402316, lng: 73.903795958225}
-level: local
+interest: local
 tags:
 - india
 - goa

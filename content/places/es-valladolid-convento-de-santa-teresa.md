@@ -1,7 +1,7 @@
 ---
 title: "Convento de Santa Teresa, Valladolid"
 location: {lat: 41.6598863777792, lng: -4.72687771534462}
-level: local
+interest: local
 tags:
 - spain
 - valladolid

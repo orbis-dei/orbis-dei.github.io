@@ -1,7 +1,7 @@
 ---
 title: "Basilica of Sts. Ulrich and Afra"
 location: {lat: 48.3614792393351, lng: 10.9000712149692}
-level: regional
+interest: regional
 tags:
 - germany
 - augsburg

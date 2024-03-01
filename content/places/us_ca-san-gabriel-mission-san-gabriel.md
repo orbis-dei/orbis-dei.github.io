@@ -1,7 +1,7 @@
 ---
 title: "Mission San Gabriel Arcangel"
 location: {lat: 34.0966596731449, lng: -118.106841102688}
-level: local
+interest: local
 tags:
 - usa
 - california

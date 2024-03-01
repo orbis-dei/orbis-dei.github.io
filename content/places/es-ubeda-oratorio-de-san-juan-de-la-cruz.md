@@ -1,7 +1,7 @@
 ---
 title: "Oratory of St. John of the Cross (Oratorio de San Juan de la Cruz)"
 location: {lat: 38.0097164534484, lng: -3.36573704226182}
-level: regional
+interest: regional
 tags:
 - spain
 - ubeda

@@ -1,7 +1,7 @@
 ---
 title: "Church of the Birthplace of St. John of the Cross (Iglesia Casa Natal de San Juan de la Cruz)"
 location: {lat: 40.9317870668416, lng: -4.9646371}
-level: local
+interest: local
 tags:
 - spain
 - fontiveros

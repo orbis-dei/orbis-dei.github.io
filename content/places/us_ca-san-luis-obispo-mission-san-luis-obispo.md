@@ -1,7 +1,7 @@
 ---
 title: "Mission San Luis Obispo de Tolosa"
 location: {lat: 35.2809991057781, lng: -120.664704058475}
-level: local
+interest: local
 tags:
 - usa
 - california

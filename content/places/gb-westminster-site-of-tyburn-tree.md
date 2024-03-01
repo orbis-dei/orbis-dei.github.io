@@ -1,7 +1,7 @@
 ---
 title: "Site of Tyburn Tree"
 location: {lat: 51.5133260560522, lng: -0.160381452351621}
-level: regional
+interest: regional
 tags:
 - uk
 - westminster

@@ -1,7 +1,7 @@
 ---
 title: "Mission San Rafael Arcangel"
 location: {lat: 37.974237142319, lng: -122.527974573741}
-level: local
+interest: local
 tags:
 - usa
 - california

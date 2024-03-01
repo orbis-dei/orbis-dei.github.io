@@ -1,7 +1,7 @@
 ---
 title: "Convento de Santa Ana, Villanueva de la Jara"
 location: {lat: 39.4396102153669, lng: -1.95650919993269}
-level: local
+interest: local
 tags:
 - spain
 - villanueva-de-la-jara

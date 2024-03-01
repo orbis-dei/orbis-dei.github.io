@@ -1,7 +1,7 @@
 ---
 title: "St. Peter's Basilica"
 location: {lat: 41.9021187880293, lng: 12.4539366999999}
-level: global
+interest: global
 tags:
 - vatican
 - rome

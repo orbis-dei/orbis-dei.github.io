@@ -1,7 +1,7 @@
 ---
 title: "Sanctuary of Chimayo (Santuario de Chimayo)"
 location: {lat: 35.989201, lng: -105.9318022}
-level: regional
+interest: regional
 tags:
 - usa
 - new-mexico

@@ -1,7 +1,7 @@
 ---
 title: "Convento de San Jose, Toledo"
 location: {lat: 39.8603574994518, lng: -4.02473433549618}
-level: local
+interest: local
 tags:
 - spain
 - toledo

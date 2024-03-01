@@ -1,7 +1,7 @@
 ---
 title: "Basilica of Our Lady of Graces and St. Maria Goretti"
 location: {lat: 41.457154, lng: 12.668148}
-level: regional
+interest: regional
 tags:
 - italy
 - nettuno

@@ -1,7 +1,7 @@
 ---
 title: "Shrine of Our Lady of Martyrs (National Shrine of the North American Martyrs)"
 location: {lat: 42.9249911, lng: -74.3022492}
-level: regional
+interest: regional
 tags:
 - usa
 - new-york

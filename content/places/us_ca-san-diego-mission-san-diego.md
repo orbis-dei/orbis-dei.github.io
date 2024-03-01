@@ -1,7 +1,7 @@
 ---
 title: "Mission San Diego de Alcala"
 location: {lat: 32.7844544140364, lng: -117.106379960395}
-level: local
+interest: local
 tags:
 - usa
 - california

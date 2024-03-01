@@ -1,7 +1,7 @@
 ---
 title: "Athisaya Panimatha (Our Lady of Snows) Shrine, Kallikulam"
 location: {lat: 8.352427276057, lng: 77.6635769342862}
-level: global
+interest: global
 tags:
 - india
 - churches

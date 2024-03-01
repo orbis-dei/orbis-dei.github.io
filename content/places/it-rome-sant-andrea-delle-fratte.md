@@ -1,7 +1,7 @@
 ---
 title: "Sant'Andrea delle Fratte (Shrine of Our Lady of the Miracle, Our Lady of Zion)"
 location: {lat: 41.9035637, lng: 12.4836739}
-level: global
+interest: global
 tags:
 - italy
 - rome

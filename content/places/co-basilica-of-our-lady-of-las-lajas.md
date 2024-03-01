@@ -1,7 +1,7 @@
 ---
 title: "National Shrine Basilica of Our Lady of Las Lajas"
 location: {lat: 0.805324865882345, lng: -77.5859226762825}
-level: global
+interest: global
 tags:
 - colombia
 - churches

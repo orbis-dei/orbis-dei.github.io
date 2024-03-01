@@ -1,7 +1,7 @@
 ---
 title: "Catholic National Shrine and Basilica of Our Lady of Walsingham"
 location: {lat: 52.8805595538228, lng: 0.852760715341141}
-level: global
+interest: global
 tags:
 - uk
 - churches

@@ -1,7 +1,7 @@
 ---
 title: "Shrine of Our Lady of Kibeho (Mother of the Word)"
 location: {lat: -2.6496097, lng: 29.5532812}
-level: global
+interest: global
 tags:
 - rwanda
 - churches
