@@ -7,7 +7,7 @@ tags:
 - santiago-de-compostela
 - churches
 - holy-persons
-- james-greater
+- james-great
 - camino
 - pelagius
 - apostles

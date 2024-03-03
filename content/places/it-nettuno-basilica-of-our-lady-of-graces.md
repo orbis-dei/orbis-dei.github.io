@@ -9,8 +9,8 @@ tags:
 - marian-sites
 - holy-persons
 - maria-goretti
-- our-lady-of-grace
-- our-lady-of-ipswich
+- our-lady-grace
+- our-lady-ipswich
 
 ---
 

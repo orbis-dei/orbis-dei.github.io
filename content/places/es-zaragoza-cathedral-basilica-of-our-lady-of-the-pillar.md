@@ -8,7 +8,7 @@ tags:
 - churches
 - marian-sites
 - holy-persons
-- james-greater
+- james-great
 - apostles
 
 ---
