@@ -6,7 +6,7 @@ tags:
 - vatican
 - rome
 - peter
-- papal-basilicas
+- major-basilicas
 
 ---
 
