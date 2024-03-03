@@ -22,7 +22,7 @@ Now houses a museum.
 #### More Information
 
 * [Castila y Leon tourism site](https://www.turismocastillayleon.com/en/art-culture-heritage/museums/teresian-museum-san-jose-medina-del-campo-m-m-carmelitas)
-* [Medina del Campo tourism site](http://medinadelcampo.es/lo-indispensable/donde-la-historia-cobra-vida/23-lo-indispensable/donde-la-historia-cobra-vida/367-convento-san-juan-de-la-cruz-ruta-teresiana) (note: website not active at time of writing)
+* [Medina del Campo tourism site](http://medinadelcampo.es/lo-indispensable/donde-la-historia-cobra-vida/23-lo-indispensable/donde-la-historia-cobra-vida/367-convento-san-juan-de-la-cruz-ruta-teresiana) - Note: website not active at time of writing
 
 
 

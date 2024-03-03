@@ -19,7 +19,7 @@ St. Ann's school was located next to the church, and the building still stands t
 
 #### More Information
 
-* [St. Ann preservation application](https://dallascityhall.com/departments/sustainabledevelopment/historicpreservation/HP%20Documents/Landmark%20Structures/St.%20Anns%20School%20Landmark%20Nomination.pdf) (including section on the church's history)
+* [St. Ann preservation application](https://dallascityhall.com/departments/sustainabledevelopment/historicpreservation/HP%20Documents/Landmark%20Structures/St.%20Anns%20School%20Landmark%20Nomination.pdf) - Includes section on the church's history
 * [About St. Ann restauraunt](https://www.saintanndallas.com/restaurant)
 
 

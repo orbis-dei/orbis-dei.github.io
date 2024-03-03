@@ -19,7 +19,7 @@ The tenth of 17 communities founded by St. Teresa of Avila, in 1575.
 #### More Information
 
 * [Sierra de Segura tourism site](https://lasierradesegura.org/parajes-naturales/convento-de-las-carmelitas-descalzas-de-san-jose-del-salvador/)
-* [Wikipedia](https://es.wikipedia.org/wiki/Convento_de_Carmelitas_Descalzas_(Beas_de_Segura)) Significant amounts of information of the associated Wikipedia page
+* [Wikipedia](https://es.wikipedia.org/wiki/Convento_de_Carmelitas_Descalzas_(Beas_de_Segura)) - Significant amounts of information of the associated Wikipedia page
 
 
 

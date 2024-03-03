@@ -18,7 +18,7 @@ The first of 17 communities founded by St. Teresa of Avila, in 1562. Visitors ca
 
 #### More Information
 
-* [Official site](http://www.sanjosedeavila.es/) (note: website not active at time of writing)
+* [Official site](http://www.sanjosedeavila.es/) - Note: website not active at time of writing
 * [Avila tourism site](https://www.avilaturismo.com/en/convent-and-church-of-san-jose)
 
 

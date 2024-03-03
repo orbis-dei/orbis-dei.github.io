@@ -23,7 +23,7 @@ The church contains a statue called Our Lady of Grace, which may be the original
 
 #### More Information
 
-* [Official site](http://www.santuarionettuno.it/) (note: website not active at time of writing)
+* [Official site](http://www.santuarionettuno.it/) - Note: website not active at time of writing
 * [Official Facebook page](https://www.facebook.com/profile.php?id=100069705631532)
 
 

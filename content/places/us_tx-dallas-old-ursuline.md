@@ -19,8 +19,8 @@ Original site of Ursuline Academy and the Ursuline Convent.  It is unclear why t
 
 #### More Information
 
-* [Ursuline history article](https://www.ursulinedallas.org/mission/heritage) (includes pictures of this convent)
-* [Additional Ursuline history article](https://www.tshaonline.org/handbook/entries/ursuline-academy-dallas) (includes pictures)
+* [Ursuline history article](https://www.ursulinedallas.org/mission/heritage) - Includes pictures of this convent
+* [Additional Ursuline history article](https://www.tshaonline.org/handbook/entries/ursuline-academy-dallas) - Includes pictures
 * [Convent in the 1922 Sanborn map](https://maps.lib.utexas.edu/maps/sanborn/d-f/txu-sanborn-dallas-1922-315.jpg)
 
 
