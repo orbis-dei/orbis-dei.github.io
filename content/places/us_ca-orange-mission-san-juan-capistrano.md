@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- san-juan-capistrano
+- orange
 - churches
 - holy-persons
 - california-missions

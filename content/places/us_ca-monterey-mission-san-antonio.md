@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- jolon
+- monterey
 - churches
 - holy-persons
 - california-missions

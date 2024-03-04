@@ -5,16 +5,17 @@ interest: local
 tags:
 - usa
 - california
-- solvang
+- los-angeles
 - churches
 - holy-persons
 - california-missions
 - franciscans
+- capuchins
 
 ---
 
 
-The 19th of the 21 California missions, founded in 1804.
+The 19th of the 21 California missions, founded in 1804.  In 1924 the Capucin Friars were given responsibility of this mission.
 
 #### More Information
 

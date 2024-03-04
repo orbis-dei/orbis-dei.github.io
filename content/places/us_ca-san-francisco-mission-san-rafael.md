@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- san-rafael
+- san-francisco
 - churches
 - holy-persons
 - california-missions

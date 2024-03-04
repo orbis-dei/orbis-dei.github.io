@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- oceanside
+- san-diego
 - churches
 - holy-persons
 - california-missions

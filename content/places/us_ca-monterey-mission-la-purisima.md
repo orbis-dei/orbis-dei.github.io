@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- lompoc
+- monterey
 - holy-persons
 - california-missions
 - franciscans

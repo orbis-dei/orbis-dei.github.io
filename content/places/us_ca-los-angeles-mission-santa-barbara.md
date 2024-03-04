@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- santa-barbara
+- los-angeles
 - churches
 - holy-persons
 - california-missions

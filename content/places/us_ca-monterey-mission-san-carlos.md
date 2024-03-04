@@ -5,7 +5,7 @@ interest: regional
 tags:
 - usa
 - california
-- carmel-by-the-sea
+- monterey
 - churches
 - holy-persons
 - california-missions

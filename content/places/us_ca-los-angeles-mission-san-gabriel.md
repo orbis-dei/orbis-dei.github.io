@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- san-gabriel
+- los-angeles
 - churches
 - holy-persons
 - california-missions

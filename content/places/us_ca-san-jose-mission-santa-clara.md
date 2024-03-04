@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- santa-clara
+- san-jose
 - churches
 - holy-persons
 - california-missions

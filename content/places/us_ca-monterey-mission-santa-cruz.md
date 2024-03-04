@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- santa-cruz
+- monterey
 - churches
 - holy-persons
 - california-missions

@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- san-luis-obispo
+- monterey
 - churches
 - holy-persons
 - california-missions

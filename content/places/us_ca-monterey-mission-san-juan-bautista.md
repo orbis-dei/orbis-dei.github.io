@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- san-juan-bautista
+- monterey
 - churches
 - holy-persons
 - california-missions

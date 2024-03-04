@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- sonoma
+- san-francisco
 - holy-persons
 - california-missions
 - franciscans

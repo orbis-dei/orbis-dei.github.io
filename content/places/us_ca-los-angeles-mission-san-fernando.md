@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- mission-hills
+- los-angeles
 - churches
 - holy-persons
 - california-missions

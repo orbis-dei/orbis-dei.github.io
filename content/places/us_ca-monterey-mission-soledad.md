@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- soledad
+- monterey
 - churches
 - holy-persons
 - california-missions

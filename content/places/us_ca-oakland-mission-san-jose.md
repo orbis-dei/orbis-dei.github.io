@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - california
-- fremont
+- oakland
 - churches
 - holy-persons
 - california-missions
