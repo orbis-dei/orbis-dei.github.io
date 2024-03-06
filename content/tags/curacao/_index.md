@@ -1,5 +1,5 @@
 ---
-title: "Curaçao"
+title: "Curacao"
 ---
 
 
@@ -7,6 +7,6 @@ title: "Curaçao"
 
 #### Background
 
-Catholic places of interest in Curaçao
+Catholic places of interest in Curacao
 
 
