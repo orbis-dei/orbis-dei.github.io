@@ -4,7 +4,7 @@ location: {lat: 51.5133260560522, lng: -0.160381452351621}
 interest: regional
 tags:
 - uk
-- westminster
+- london
 - holy-persons
 - english-martyrs
 

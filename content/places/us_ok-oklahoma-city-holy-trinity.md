@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - oklahoma
-- okarche
+- oklahoma-city
 - churches
 - holy-persons
 - stanley-rother

@@ -5,7 +5,7 @@ interest: local
 tags:
 - usa
 - maryland
-- emmitsburg
+- baltimore
 - churches
 - holy-persons
 - stanley-rother
