@@ -2,4 +2,11 @@
 title: "Diocese of Augsburg"
 ---
 
-Diocese of Augsburg (Bistum Augsburg), the largest diocese in Germany.
+
+*A collection of sites associated with this topic.*
+
+#### Background
+
+Catholic places of interest in the Diocese of Augsburg, the largest in Germany
+
+
