@@ -3,7 +3,7 @@ title: "Church of the Holy Family (La Sagrada Familia), Mexico City"
 location: {lat: 19.422522, lng: -99.1609427}
 interest: regional
 tags:
-- mexico
+- mx
 - mexico-city
 - churches
 - holy-persons

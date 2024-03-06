@@ -3,8 +3,8 @@ title: "Mission San Carlos Borromeo de Carmelo"
 location: {lat: 36.5425423059041, lng: -121.919856929485}
 interest: regional
 tags:
-- usa
-- california
+- us
+- us-ca
 - monterey
 - churches
 - holy-persons

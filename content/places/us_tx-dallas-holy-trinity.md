@@ -3,8 +3,8 @@ title: "Holy Trinity Catholic Church, Dallas, TX"
 location: {lat: 32.8145708, lng: -96.8028428}
 interest: local
 tags:
-- usa
-- texas
+- us
+- us-tx
 - dallas
 - churches
 - vincentians

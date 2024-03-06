@@ -3,7 +3,7 @@ title: "Convento de San Jose, Malagon"
 location: {lat: 39.1728365063378, lng: -3.85185117116384}
 interest: local
 tags:
-- spain
+- es
 - malagon
 - churches
 - holy-persons

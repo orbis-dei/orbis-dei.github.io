@@ -3,8 +3,8 @@ title: "Mission San Buenaventura"
 location: {lat: 34.281052108005, lng: -119.298020331519}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - ventura
 - churches
 - holy-persons

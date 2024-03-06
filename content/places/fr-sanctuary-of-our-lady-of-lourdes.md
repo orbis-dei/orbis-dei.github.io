@@ -3,7 +3,7 @@ title: "Sanctuary of Our Lady of Lourdes"
 location: {lat: 43.0974206, lng: -0.0582611}
 interest: global
 tags:
-- france
+- fr
 - churches
 - marian-sites
 - holy-persons

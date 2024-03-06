@@ -3,7 +3,7 @@ title: "Goretti House"
 location: {lat: 41.5161008, lng: 12.7567}
 interest: regional
 tags:
-- italy
+- it
 - la-ferriere
 - holy-persons
 - maria-goretti

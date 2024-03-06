@@ -3,8 +3,8 @@ title: "Old St. Paul Sanitarium, Dallas, TX"
 location: {lat: 32.7942111, lng: -96.7889278}
 interest: local
 tags:
-- usa
-- texas
+- us
+- us-tx
 - dallas
 - closed
 

@@ -3,8 +3,8 @@ title: "Mission Santa Clara de Asis"
 location: {lat: 37.3491892853456, lng: -121.941511544924}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - san-jose
 - churches
 - holy-persons

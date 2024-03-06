@@ -3,8 +3,8 @@ title: "Blessed Stanley Rother Shrine"
 location: {lat: 35.3758, lng: -97.4975}
 interest: local
 tags:
-- usa
-- oklahoma
+- us
+- us-ok
 - oklahoma-city
 - churches
 - holy-persons

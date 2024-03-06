@@ -3,7 +3,7 @@ title: "Church of the Birthplace of St. John of the Cross (Iglesia Casa Natal de
 location: {lat: 40.9317870668416, lng: -4.9646371}
 interest: local
 tags:
-- spain
+- es
 - fontiveros
 - churches
 - holy-persons

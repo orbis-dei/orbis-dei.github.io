@@ -3,7 +3,7 @@ title: "Birthplace of St. Maria Goretti"
 location: {lat: 43.659849, lng: 13.05112}
 interest: local
 tags:
-- italy
+- it
 - corinaldo
 - holy-persons
 - maria-goretti

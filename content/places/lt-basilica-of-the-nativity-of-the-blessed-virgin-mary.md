@@ -3,7 +3,7 @@ title: "Basilica of the Nativity of the Blessed Virgin Mary (Our Lady of Siluva)
 location: {lat: 55.5306126, lng: 23.2199252}
 interest: global
 tags:
-- lithuania
+- lt
 - churches
 - marian-sites
 

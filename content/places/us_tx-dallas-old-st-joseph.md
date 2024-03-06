@@ -3,8 +3,8 @@ title: "Old St. Joseph Catholic Church, Dallas, TX"
 location: {lat: 32.7876037, lng: -96.7870118}
 interest: local
 tags:
-- usa
-- texas
+- us
+- us-tx
 - dallas
 - closed
 

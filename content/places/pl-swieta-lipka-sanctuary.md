@@ -3,7 +3,7 @@ title: "Swieta Lipka Sanctuary"
 location: {lat: 54.0246754900946, lng: 21.2177462726687}
 interest: global
 tags:
-- poland
+- pl
 - churches
 - marian-sites
 

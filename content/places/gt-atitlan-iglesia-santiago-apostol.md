@@ -3,7 +3,7 @@ title: "Church of St. James the Apostle (Iglesia Santiago Apostol)"
 location: {lat: 14.638171, lng: -91.229103}
 interest: regional
 tags:
-- guatemala
+- gt
 - atitlan
 - churches
 - holy-persons

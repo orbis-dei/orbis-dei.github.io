@@ -3,8 +3,8 @@ title: "Mission San Juan Capistrano"
 location: {lat: 33.5020282662047, lng: -117.662690902704}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - orange
 - churches
 - holy-persons

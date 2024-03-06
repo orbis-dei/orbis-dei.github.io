@@ -3,7 +3,7 @@ title: "St. Bernard Church (Iglesia de San Bernardo), Palencia"
 location: {lat: 42.0076724799919, lng: -4.53147064662605}
 interest: local
 tags:
-- spain
+- es
 - palencia
 - churches
 - holy-persons

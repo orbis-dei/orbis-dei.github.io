@@ -1,10 +1,10 @@
 ---
 title: "Mount St. Mary's Seminary"
-location: {lat: 39.679924, lng: -77.356056}
+location: {lat: 39.6799879929785, lng: -77.3549241077855}
 interest: local
 tags:
-- usa
-- maryland
+- us
+- us-md
 - baltimore
 - churches
 - holy-persons

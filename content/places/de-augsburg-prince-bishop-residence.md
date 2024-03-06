@@ -3,7 +3,7 @@ title: "Former Residence of the Prince-Bishop of Augsburg"
 location: {lat: 48.3723371083759, lng: 10.8944612321084}
 interest: local
 tags:
-- germany
+- de
 - augsburg
 - reformation
 

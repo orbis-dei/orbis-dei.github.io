@@ -3,7 +3,7 @@ title: "Diocesan Shrine of Mary, Help of Christians"
 location: {lat: 45.5929764710798, lng: 19.1905119128275}
 interest: global
 tags:
-- serbia
+- rs
 - churches
 - marian-sites
 

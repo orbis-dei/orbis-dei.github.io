@@ -3,7 +3,7 @@ title: "Church of Mary"
 location: {lat: 37.9446059640859, lng: 27.3391947153403}
 interest: local
 tags:
-- turkey
+- tr
 - ephesus
 - closed
 

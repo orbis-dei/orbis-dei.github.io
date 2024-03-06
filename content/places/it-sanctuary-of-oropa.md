@@ -3,7 +3,7 @@ title: "Sanctuary of Oropa (Black Madonna of Oropa)"
 location: {lat: 45.6258893442062, lng: 7.98237638465537}
 interest: regional
 tags:
-- italy
+- it
 - churches
 - marian-sites
 - pier-giorgio-frassati

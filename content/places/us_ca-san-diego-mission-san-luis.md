@@ -3,8 +3,8 @@ title: "Mission San Luis Rey de Francia"
 location: {lat: 33.2321695508642, lng: -117.319756402711}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - san-diego
 - churches
 - holy-persons

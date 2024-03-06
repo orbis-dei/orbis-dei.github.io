@@ -3,7 +3,7 @@ title: "St. Peter am Perlach (Mary Undoer of Knots)"
 location: {lat: 48.3691926319073, lng: 10.8982826487021}
 interest: global
 tags:
-- germany
+- de
 - augsburg
 - churches
 - marian-sites

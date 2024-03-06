@@ -3,7 +3,7 @@ title: "St. Mary Major (S. Maria Maggiore) (Our Lady of the Snows)"
 location: {lat: 41.8972931099639, lng: 12.4989743434214}
 interest: global
 tags:
-- italy
+- it
 - rome
 - churches
 - marian-sites

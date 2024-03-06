@@ -3,7 +3,7 @@ title: "Convento de San Jose, Granada"
 location: {lat: 37.1750625813513, lng: -3.5968725}
 interest: local
 tags:
-- spain
+- es
 - granada
 - churches
 - holy-persons

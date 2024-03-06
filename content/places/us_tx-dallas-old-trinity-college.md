@@ -3,8 +3,8 @@ title: "Old Trinity College / Dallas University / Jesuit Dallas"
 location: {lat: 32.814343, lng: -96.8018151}
 interest: local
 tags:
-- usa
-- texas
+- us
+- us-tx
 - dallas
 - closed
 

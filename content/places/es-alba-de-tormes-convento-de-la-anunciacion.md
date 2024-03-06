@@ -3,7 +3,7 @@ title: "Convent of the Anunciation (Convento de La Anunciacion), Alba de Tormes"
 location: {lat: 40.8265328359173, lng: -5.51440563553813}
 interest: regional
 tags:
-- spain
+- es
 - alba-de-tormes
 - churches
 - holy-persons

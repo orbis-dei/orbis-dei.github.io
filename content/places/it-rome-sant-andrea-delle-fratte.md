@@ -3,7 +3,7 @@ title: "Sant'Andrea delle Fratte (Shrine of Our Lady of the Miracle, Our Lady of
 location: {lat: 41.9035637, lng: 12.4836739}
 interest: global
 tags:
-- italy
+- it
 - rome
 - churches
 - marian-sites

@@ -3,7 +3,7 @@ title: "Basilica of the Annunciation of the Blessed Virgin Mary (Our Lady of Lez
 location: {lat: 50.2704677, lng: 22.4080316}
 interest: global
 tags:
-- poland
+- pl
 - churches
 - marian-sites
 - communities

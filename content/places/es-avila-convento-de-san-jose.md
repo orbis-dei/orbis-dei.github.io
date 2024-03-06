@@ -3,7 +3,7 @@ title: "Convento de San Jose, Avila"
 location: {lat: 40.6550979257916, lng: -4.69193607128771}
 interest: local
 tags:
-- spain
+- es
 - avila
 - churches
 - holy-persons

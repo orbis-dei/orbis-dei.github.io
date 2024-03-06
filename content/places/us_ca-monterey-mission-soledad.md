@@ -3,8 +3,8 @@ title: "Mission Nuestra Senora de la Soledad (Mission Soledad)"
 location: {lat: 36.4048390825981, lng: -121.355761573787}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - monterey
 - churches
 - holy-persons

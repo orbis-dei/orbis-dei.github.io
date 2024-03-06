@@ -3,7 +3,7 @@ title: "Basilica of Our Lady Help of Christians"
 location: {lat: 50.9806857, lng: 14.5973499}
 interest: global
 tags:
-- czechia
+- cz
 - churches
 - marian-sites
 

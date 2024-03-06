@@ -3,8 +3,8 @@ title: "Mission San Francisco Solano"
 location: {lat: 38.2936930309277, lng: -122.455888502567}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - san-francisco
 - holy-persons
 - california-missions

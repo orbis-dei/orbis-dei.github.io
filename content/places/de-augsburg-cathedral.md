@@ -3,7 +3,7 @@ title: "Augsburg Cathedral (Augsburgur Dom)"
 location: {lat: 48.3726562248586, lng: 10.8969802045589}
 interest: local
 tags:
-- germany
+- de
 - augsburg
 - churches
 - holy-persons

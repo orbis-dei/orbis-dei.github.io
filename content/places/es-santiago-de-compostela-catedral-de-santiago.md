@@ -3,7 +3,7 @@ title: "Metropolitan Archcathedral Basilica of Santiago de Compostela (Catedral 
 location: {lat: 42.8806093820127, lng: -8.5443954}
 interest: global
 tags:
-- spain
+- es
 - santiago-de-compostela
 - churches
 - holy-persons

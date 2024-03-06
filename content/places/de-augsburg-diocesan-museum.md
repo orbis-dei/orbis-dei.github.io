@@ -3,7 +3,7 @@ title: "Diocesan Museum of St. Afra"
 location: {lat: 48.3733418136289, lng: 10.8960887661434}
 interest: regional
 tags:
-- germany
+- de
 - augsburg
 - holy-persons
 - ulrich

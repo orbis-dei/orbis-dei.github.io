@@ -3,8 +3,8 @@ title: "Mission Santa Barbara"
 location: {lat: 34.4382907792083, lng: -119.714078531515}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - los-angeles
 - churches
 - holy-persons

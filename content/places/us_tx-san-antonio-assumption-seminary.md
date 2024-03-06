@@ -3,8 +3,8 @@ title: "Assumption Seminary"
 location: {lat: 29.454204, lng: -98.54519}
 interest: local
 tags:
-- usa
-- texas
+- us
+- us-tx
 - san-antonio
 - churches
 - holy-persons

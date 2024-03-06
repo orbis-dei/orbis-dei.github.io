@@ -3,7 +3,7 @@ title: "Cathedral of Our Lady of Puy"
 location: {lat: 45.0456296446269, lng: 3.88463383893332}
 interest: global
 tags:
-- france
+- fr
 - churches
 - marian-sites
 - camino

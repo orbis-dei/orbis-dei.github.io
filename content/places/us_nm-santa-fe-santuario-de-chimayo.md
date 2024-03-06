@@ -3,8 +3,8 @@ title: "Sanctuary of Chimayo (Santuario de Chimayo)"
 location: {lat: 35.989201, lng: -105.9318022}
 interest: regional
 tags:
-- usa
-- new-mexico
+- us
+- us-nm
 - santa-fe
 - churches
 

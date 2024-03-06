@@ -3,8 +3,8 @@ title: "Mission San Miguel Arcangel"
 location: {lat: 35.7449345413861, lng: -120.69716204497}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - monterey
 - churches
 - holy-persons

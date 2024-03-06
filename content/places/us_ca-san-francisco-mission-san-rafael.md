@@ -3,8 +3,8 @@ title: "Mission San Rafael Arcangel"
 location: {lat: 37.974237142319, lng: -122.527974573741}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - san-francisco
 - churches
 - holy-persons

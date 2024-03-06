@@ -3,7 +3,7 @@ title: "Basilica of Our Lady of La Vang"
 location: {lat: 16.7054910999221, lng: 107.196010823597}
 interest: global
 tags:
-- vietnam
+- vn
 - churches
 - marian-sites
 

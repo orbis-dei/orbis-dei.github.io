@@ -3,7 +3,7 @@ title: "Basilica of St. John"
 location: {lat: 37.9524398007025, lng: 27.3679113460381}
 interest: global
 tags:
-- turkey
+- tr
 - ephesus
 - holy-persons
 - john-apostle

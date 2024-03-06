@@ -3,8 +3,8 @@ title: "Loretto Chapel, Santa Fe, NM"
 location: {lat: 35.6856315, lng: -105.9376593}
 interest: regional
 tags:
-- usa
-- new-mexico
+- us
+- us-nm
 - santa-fe
 - churches
 - holy-persons

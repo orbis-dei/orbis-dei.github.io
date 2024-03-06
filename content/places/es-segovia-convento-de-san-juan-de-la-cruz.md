@@ -3,7 +3,7 @@ title: "Convent of St. John of the Cross (Convento de San Juan de la Cruz)"
 location: {lat: 40.955391357159, lng: -4.13347186323157}
 interest: regional
 tags:
-- spain
+- es
 - segovia
 - churches
 - holy-persons

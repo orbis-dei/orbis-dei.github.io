@@ -3,8 +3,8 @@ title: "Shrine of Our Lady of Martyrs (National Shrine of the North American Mar
 location: {lat: 42.9249911, lng: -74.3022492}
 interest: regional
 tags:
-- usa
-- new-york
+- us
+- us-ny
 - churches
 - holy-persons
 - canadian-martyrs

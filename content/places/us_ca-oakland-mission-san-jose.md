@@ -3,8 +3,8 @@ title: "Mission San Jose"
 location: {lat: 37.5334036374493, lng: -121.919695300919}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - oakland
 - churches
 - holy-persons

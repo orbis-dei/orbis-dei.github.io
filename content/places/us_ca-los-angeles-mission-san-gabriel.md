@@ -3,8 +3,8 @@ title: "Mission San Gabriel Arcangel"
 location: {lat: 34.0966596731449, lng: -118.106841102688}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - los-angeles
 - churches
 - holy-persons

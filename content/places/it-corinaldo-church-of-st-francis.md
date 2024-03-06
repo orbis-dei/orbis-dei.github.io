@@ -3,7 +3,7 @@ title: "Church of St. Francis, Corinaldo"
 location: {lat: 43.650785, lng: 13.047758}
 interest: local
 tags:
-- italy
+- it
 - corinaldo
 - churches
 - holy-persons

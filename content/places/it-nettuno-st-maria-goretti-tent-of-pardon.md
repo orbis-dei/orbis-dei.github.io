@@ -3,7 +3,7 @@ title: "St. Maria Goretti Tent of Pardon (Tenda del Perdono)"
 location: {lat: 41.456946, lng: 12.64985}
 interest: local
 tags:
-- italy
+- it
 - nettuno
 - holy-persons
 - maria-goretti

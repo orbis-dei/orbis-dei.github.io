@@ -3,8 +3,8 @@ title: "Mission San Juan Bautista"
 location: {lat: 36.8458910149476, lng: -121.535752689119}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - monterey
 - churches
 - holy-persons

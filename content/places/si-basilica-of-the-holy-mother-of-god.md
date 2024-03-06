@@ -3,7 +3,7 @@ title: "Basilica of the Holy Mother of God"
 location: {lat: 45.9989430444559, lng: 13.6553373449013}
 interest: global
 tags:
-- slovenia
+- si
 - churches
 - marian-sites
 

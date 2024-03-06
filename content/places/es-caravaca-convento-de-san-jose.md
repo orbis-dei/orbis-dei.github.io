@@ -3,7 +3,7 @@ title: "Convento de San Jose, Caravaca de la Cruz"
 location: {lat: 38.1067192842424, lng: -1.8610296}
 interest: local
 tags:
-- spain
+- es
 - caravaca
 - churches
 - holy-persons

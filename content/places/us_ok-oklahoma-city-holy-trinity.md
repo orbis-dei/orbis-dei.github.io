@@ -3,8 +3,8 @@ title: "Holy Trinity Catholic Church, Okarche, OK"
 location: {lat: 35.7284903, lng: -97.975802}
 interest: local
 tags:
-- usa
-- oklahoma
+- us
+- us-ok
 - oklahoma-city
 - churches
 - holy-persons

@@ -3,7 +3,7 @@ title: "Knock Shrine (Our Lady of Knock)"
 location: {lat: 53.7927562, lng: -8.918981}
 interest: global
 tags:
-- ireland
+- ie
 - churches
 - marian-sites
 

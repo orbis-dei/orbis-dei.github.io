@@ -3,8 +3,8 @@ title: "Mission Santa Cruz"
 location: {lat: 36.9781412595296, lng: -122.029494075624}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - monterey
 - churches
 - holy-persons

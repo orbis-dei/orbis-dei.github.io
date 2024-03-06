@@ -3,7 +3,7 @@ title: "Avila Cathedral (Catedral del Salvador)"
 location: {lat: 40.6557376338577, lng: -4.69703687109845}
 interest: regional
 tags:
-- spain
+- es
 - avila
 - churches
 

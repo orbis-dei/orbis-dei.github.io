@@ -3,7 +3,7 @@ title: "Minor Basilica of Our Lady of the Rosary of Manaoag"
 location: {lat: 16.0440593284094, lng: 120.488325579597}
 interest: global
 tags:
-- philippines
+- ph
 - churches
 - marian-sites
 

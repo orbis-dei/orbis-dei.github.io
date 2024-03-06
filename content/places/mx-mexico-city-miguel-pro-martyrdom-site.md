@@ -3,7 +3,7 @@ title: "Site of Bl. Miguel Pro's Martyrdom"
 location: {lat: 19.436178, lng: -99.150291}
 interest: regional
 tags:
-- mexico
+- mx
 - mexico-city
 - holy-persons
 - miguel-pro

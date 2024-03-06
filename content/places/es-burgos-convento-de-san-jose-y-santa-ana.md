@@ -3,7 +3,7 @@ title: "Convento de San Jose y Santa Ana, Burgos"
 location: {lat: 42.340120675583, lng: -3.6942737}
 interest: local
 tags:
-- spain
+- es
 - burgos
 - churches
 - holy-persons

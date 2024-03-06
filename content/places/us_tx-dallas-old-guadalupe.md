@@ -3,8 +3,8 @@ title: "Old Our Lady of Guadalupe Catholic Church, Dallas, TX"
 location: {lat: 32.792159, lng: -96.8064572}
 interest: local
 tags:
-- usa
-- texas
+- us
+- us-tx
 - dallas
 - closed
 

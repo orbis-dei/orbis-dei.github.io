@@ -3,8 +3,8 @@ title: "Mission San Luis Obispo de Tolosa"
 location: {lat: 35.2809991057781, lng: -120.664704058475}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - monterey
 - churches
 - holy-persons

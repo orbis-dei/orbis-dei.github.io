@@ -3,7 +3,7 @@ title: "Sanctuary of Our Lady of the Rosary of Fatima"
 location: {lat: 39.6312638, lng: -8.6731571}
 interest: global
 tags:
-- portugal
+- pt
 - churches
 - marian-sites
 - holy-persons

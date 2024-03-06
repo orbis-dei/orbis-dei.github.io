@@ -3,7 +3,7 @@ title: "Archdiocesan Shrine of Our Lady of Caysasay"
 location: {lat: 13.8821815225981, lng: 120.920278855358}
 interest: global
 tags:
-- philippines
+- ph
 - churches
 - marian-sites
 

@@ -3,8 +3,8 @@ title: "Mission Santa Ines"
 location: {lat: 34.5947305774003, lng: -120.136405258494}
 interest: local
 tags:
-- usa
-- california
+- us
+- us-ca
 - los-angeles
 - churches
 - holy-persons

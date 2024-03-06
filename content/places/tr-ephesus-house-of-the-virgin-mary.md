@@ -3,7 +3,7 @@ title: "House of the Virgin Mary"
 location: {lat: 37.9115960027711, lng: 27.3341418397482}
 interest: global
 tags:
-- turkey
+- tr
 - ephesus
 - marian-sites
 - anne-catherine-emmerich

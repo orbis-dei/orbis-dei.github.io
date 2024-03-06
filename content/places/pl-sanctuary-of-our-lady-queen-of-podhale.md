@@ -3,7 +3,7 @@ title: "Sanctuary of Our Lady Queen of Podhale"
 location: {lat: 49.4651296551083, lng: 19.9828430570051}
 interest: global
 tags:
-- poland
+- pl
 - churches
 - marian-sites
 - john-paul-ii

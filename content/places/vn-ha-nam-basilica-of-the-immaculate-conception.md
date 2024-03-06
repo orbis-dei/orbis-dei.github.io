@@ -3,7 +3,7 @@ title: "Basilica of the Immaculate Conception at Ha Nam"
 location: {lat: 20.4247269, lng: 106.1588304}
 interest: local
 tags:
-- vietnam
+- vn
 - ha-nam
 - churches
 - holy-persons

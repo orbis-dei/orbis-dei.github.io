@@ -3,7 +3,7 @@ title: "Basilica of Our Lady of Lujan"
 location: {lat: -34.5641985133718, lng: -59.1214082314216}
 interest: global
 tags:
-- argentina
+- ar
 - churches
 - marian-sites
 

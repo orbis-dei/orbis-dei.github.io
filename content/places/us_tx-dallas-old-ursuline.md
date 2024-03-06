@@ -3,8 +3,8 @@ title: "Old Ursuline Academy, Dallas, TX"
 location: {lat: 32.795627, lng: -96.782279}
 interest: local
 tags:
-- usa
-- texas
+- us
+- us-tx
 - dallas
 - closed
 

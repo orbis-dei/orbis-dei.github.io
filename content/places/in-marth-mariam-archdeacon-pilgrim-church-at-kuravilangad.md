@@ -3,7 +3,7 @@ title: "Major Archiepiscopal Marth Mariam Archdeacon Pilgrim Church at Kuravilan
 location: {lat: 9.754446, lng: 76.56482}
 interest: global
 tags:
-- india
+- in
 - churches
 - marian-sites
 - syro-malabar

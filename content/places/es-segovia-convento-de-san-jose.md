@@ -3,7 +3,7 @@ title: "Convento de San Jose, Segovia"
 location: {lat: 40.9511969074217, lng: -4.12682272001028}
 interest: local
 tags:
-- spain
+- es
 - segovia
 - churches
 - holy-persons

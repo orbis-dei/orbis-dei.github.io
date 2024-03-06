@@ -3,8 +3,8 @@ title: "National Shrine Cathedral of Our Lady of Guadalupe, Dallas, TX"
 location: {lat: 32.7885152, lng: -96.7977807}
 interest: local
 tags:
-- usa
-- texas
+- us
+- us-tx
 - dallas
 - churches
 

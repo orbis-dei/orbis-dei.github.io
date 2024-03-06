@@ -3,7 +3,7 @@ title: "Convento del Carmen, Pastrana"
 location: {lat: 40.4050876865406, lng: -2.91725329352686}
 interest: local
 tags:
-- spain
+- es
 - pastrana
 - churches
 - holy-persons

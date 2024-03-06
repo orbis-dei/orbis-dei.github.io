@@ -3,7 +3,7 @@ title: "St. Vincent De Paul Chapel"
 location: {lat: 48.8488573825124, lng: 2.32163111226356}
 interest: regional
 tags:
-- france
+- fr
 - paris
 - churches
 - holy-persons

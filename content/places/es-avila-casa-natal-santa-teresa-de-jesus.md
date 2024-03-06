@@ -3,7 +3,7 @@ title: "Church and birthplace of St. Teresa of Jesus (Casa Natal Santa Teresa de
 location: {lat: 40.6554939834928, lng: -4.70275600839255}
 interest: local
 tags:
-- spain
+- es
 - avila
 - churches
 - holy-persons
