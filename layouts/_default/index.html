@@ -1,5 +1,7 @@
 {{- define "main" }}
 
+<div class="text-stuff">
+
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
@@ -55,7 +57,7 @@
 {{- range $index, $page := $pages }}
     {{- $.Scratch.Add "locations" (dict "location" (.Param "location") "content" (printf "<h4><a href='%s'>%s</a></h4>%s" .RelPermalink .Title .Content) ) -}}
 {{- end }}
-{{- partial "home_map.html" ($.Scratch.Get "locations") }}
+
 
 {{- with site.GetPage "/tags" }}
 <ul class="terms-tags">
@@ -73,5 +75,9 @@
 {{- end }}
 
 {{- end }}{{/* end profileMode */}}
+
+</div>
+
+{{- partial "home_map.html" ($.Scratch.Get "locations") }}
 
 {{- end }}{{- /* end main */ -}}

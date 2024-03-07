@@ -1,6 +1,6 @@
 {{- define "main" }}
 
-<article class="post-single">
+<article class="post-single text-stuff">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
     <h1 class="post-title">
@@ -29,12 +29,10 @@
 
   {{- if .Content }}
   <div class="post-content">
-    {{- partial "map.html" . -}}
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
   </div>
-  {{- end }}
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
@@ -50,10 +48,15 @@
     {{- partial "share_icons.html" . -}}
     {{- end }}
   </footer>
+</div>
+</article>
+
+  {{- partial "map.html" . -}}
+
+  {{- end }}
 
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
   {{- end }}
-</article>
 
 {{- end }}{{/* end main */}}
