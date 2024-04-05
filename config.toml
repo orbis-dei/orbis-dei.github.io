@@ -21,5 +21,6 @@ theme = 'PaperMod'
   pageRef = 'contact'
   weight = 5
 
-[analytics.google]
-SiteVerificationTag = 'G-XR25W3EJPR'
+[services]
+[services.googleAnalytics]
+ID = 'G-XR25W3EJPR'
