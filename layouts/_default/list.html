@@ -4,6 +4,22 @@
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
 
+{{- $pages := union .RegularPages .Sections }}
+
+{{- if .IsHome }}
+{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
+{{- end }}
+
+{{- $.Scratch.Add "locations" slice -}}
+{{- range $index, $page := $pages }}
+    {{- $.Scratch.Add "locations" (dict "location" (.Param "location") "content" (printf "<h4><a href='%s'>%s</a></h4>%s" .RelPermalink .Title .Content) ) -}}
+{{- end }}
+
+{{- partial "home_map.html" ($.Scratch.Get "locations") }}
+
+<div class="text-stuff">
+
 {{- if not .IsHome | and .Title }}
 <header class="page-header">
   {{- partial "breadcrumbs.html" . }}
@@ -38,24 +54,11 @@
 </div>
 {{- end }}
 
-{{- $pages := union .RegularPages .Sections }}
-
-{{- if .IsHome }}
-{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
-{{- end }}
-
 {{- if and .IsHome site.Params.homeInfoParams }}
 {{- partial "home_info.html" . }}
 {{- end }}
 
 {{- $term := .Data.Term }}
-
-{{- $.Scratch.Add "locations" slice -}}
-{{- range $index, $page := $pages }}
-    {{- $.Scratch.Add "locations" (dict "location" (.Param "location") "content" (printf "<h4><a href='%s'>%s</a></h4>%s" .RelPermalink .Title .Content) ) -}}
-{{- end }}
-{{- partial "home_map.html" ($.Scratch.Get "locations") }}
 
 {{- range $index, $page := $pages }}
 
@@ -90,6 +93,8 @@
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
+
+</div>
 
 {{- end }}{{/* end profileMode */}}
 

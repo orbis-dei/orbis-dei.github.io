@@ -1,6 +1,8 @@
 {{- define "main" }}
 
-<article class="post-single">
+{{- partial "map.html" . -}}
+
+<article class="post-single text-stuff">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
     <h1 class="post-title">
@@ -29,7 +31,6 @@
 
   {{- if .Content }}
   <div class="post-content">
-    {{- partial "map.html" . -}}
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
