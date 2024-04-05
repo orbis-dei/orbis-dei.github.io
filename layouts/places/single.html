@@ -1,5 +1,7 @@
 {{- define "main" }}
 
+{{- partial "map.html" . -}}
+
 <article class="post-single text-stuff">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
@@ -50,8 +52,6 @@
   </footer>
 </div>
 </article>
-
-  {{- partial "map.html" . -}}
 
   {{- end }}
 

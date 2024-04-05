@@ -1,21 +1,5 @@
 <!-- Tagged map -->
 
-<style>
-    /* 
- * Always set the map height explicitly to define the size of the div element
- * that contains the map. 
- */
-#map {
-  height: calc(100vh - var(--header-height));
-  color: black;
-  width: 60%;
-}
-
-#map a {
-    color: #1e1e1e
-}
-</style>
-
 <!--The div element for the map -->
 <div id="map" style="margin-bottom: var(--gap);"></div>
 
@@ -37,7 +21,7 @@ function mapDimensions(locations) {
     longitude_spread = Math.max(...longitudes) - Math.min(...longitudes);
     return {
         center: {lat: centerOfLine(latitudes), lng: centerOfLine(longitudes)}, 
-        zoom_level: Math.max(2, Math.min(
+        zoom_level: Math.max(3, Math.min(
           Math.log2(300 / latitude_spread),
           Math.log2(600 / longitude_spread)))
     }

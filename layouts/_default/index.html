@@ -1,5 +1,7 @@
 {{- define "main" }}
 
+{{- partial "home_map.html" ($.Scratch.Get "locations") }}
+
 <div class="text-stuff">
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
@@ -77,7 +79,5 @@
 {{- end }}{{/* end profileMode */}}
 
 </div>
-
-{{- partial "home_map.html" ($.Scratch.Get "locations") }}
 
 {{- end }}{{- /* end main */ -}}
