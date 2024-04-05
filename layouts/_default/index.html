@@ -1,5 +1,19 @@
 {{- define "main" }}
 
+{{- $pages := union .RegularPages .Sections }}
+
+{{- if .IsHome }}
+{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
+{{- end }}
+
+{{- $term := .Data.Term }}
+
+{{- $.Scratch.Add "locations" slice -}}
+{{- range $index, $page := $pages }}
+    {{- $.Scratch.Add "locations" (dict "location" (.Param "location") "content" (printf "<h4><a href='%s'>%s</a></h4>%s" .RelPermalink .Title .Content) ) -}}
+{{- end }}
+
 {{- partial "home_map.html" ($.Scratch.Get "locations") }}
 
 <div class="text-stuff">
@@ -42,24 +56,9 @@
 </div>
 {{- end }}
 
-{{- $pages := union .RegularPages .Sections }}
-
-{{- if .IsHome }}
-{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
-{{- end }}
-
 {{- if and .IsHome site.Params.homeInfoParams }}
 {{- partial "home_info.html" . }}
 {{- end }}
-
-{{- $term := .Data.Term }}
-
-{{- $.Scratch.Add "locations" slice -}}
-{{- range $index, $page := $pages }}
-    {{- $.Scratch.Add "locations" (dict "location" (.Param "location") "content" (printf "<h4><a href='%s'>%s</a></h4>%s" .RelPermalink .Title .Content) ) -}}
-{{- end }}
-
 
 {{- with site.GetPage "/tags" }}
 <ul class="terms-tags">
