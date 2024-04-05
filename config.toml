@@ -20,3 +20,6 @@ theme = 'PaperMod'
   name = 'Contact'
   pageRef = 'contact'
   weight = 5
+
+[analytics.google]
+SiteVerificationTag = 'G-XR25W3EJPR'
