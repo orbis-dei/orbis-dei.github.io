@@ -35,6 +35,7 @@
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
   </div>
+  {{- end }}
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
@@ -52,8 +53,6 @@
   </footer>
 </div>
 </article>
-
-  {{- end }}
 
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
