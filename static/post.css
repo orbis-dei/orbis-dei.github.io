@@ -24,7 +24,7 @@
 * that contains the map. 
 */
 #map {
-    height: calc(100vh - var(--header-height) - var(--footer-height));
+    height: calc(100vh - var(--header-height) - var(--footer-height) - 24px);
     color: black;
     width: 60%;
 }
