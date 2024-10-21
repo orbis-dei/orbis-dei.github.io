@@ -5,6 +5,7 @@ interest: Magnificent papal basilica dating from the 4th century, with tomb of S
 tags:
 - it
 - rome
+- churches
 - holy-persons
 - paul
 

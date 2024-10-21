@@ -5,6 +5,7 @@ interest: One of the seven pilgrim churches of Rome, the current church was buil
 tags:
 - it
 - rome
+- churches
 - holy-persons
 - sebastian
 - peter

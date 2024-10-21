@@ -5,6 +5,7 @@ interest: Site of the martyrdom of St. Lawrence, grilled to death.  His relics a
 tags:
 - it
 - rome
+- churches
 - holy-persons
 - lawrence
 - stephen
