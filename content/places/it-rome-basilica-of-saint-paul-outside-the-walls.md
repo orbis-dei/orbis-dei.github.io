@@ -8,6 +8,7 @@ tags:
 - churches
 - holy-persons
 - paul
+- major-basilicas
 
 ---
 

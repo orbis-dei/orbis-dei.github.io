@@ -7,9 +7,8 @@ tags:
 - us-ok
 - tulsa
 - churches
-- benedictine
+- benedictines
 - solesmes
-- benedictine-abbey
 
 ---
 

@@ -7,7 +7,7 @@ tags:
 - rome
 - marian-sites
 - holy-persons
-- pope-sylvester
+- sylvester
 - roman-martyrs
 
 ---

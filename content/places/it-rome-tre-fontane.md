@@ -8,7 +8,7 @@ tags:
 - churches
 - holy-persons
 - paul
-- cistercian-monastery
+- cistercians
 
 ---
 
